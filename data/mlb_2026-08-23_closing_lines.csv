@@ -1,0 +1,1152 @@
+game_date,sport_key,home_team,away_team,source,commence_time,home_ml,away_ml,draw_ml,home_price_decimal,away_price_decimal,draw_price_decimal,home_spread,away_spread,home_spread_ml,away_spread_ml,home_spread_price_decimal,away_spread_price_decimal,total_line,over_ml,under_ml,over_price_decimal,under_price_decimal,home_score,away_score,result,season
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,betmgm,2026-08-23 00:05:00+00,,,,,,,,,,,,,6.5,210,-275,3.1,1.3636,,,,2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,atg,2026-08-23 00:10:00+00,25000,,,251,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,atg_open,2026-08-23 00:10:00+00,1600,-10000,,17,1.01,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,bet365,2026-08-23 00:10:00+00,,,,,,,-1.5,1.5,125,-150,2.25,1.6667,8.5,-110,-110,1.9091,1.9091,,,,2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,betmgm,2026-08-23 00:10:00+00,,,,,,,-2.5,1.5,190,-150,2.9,1.6667,16.5,425,-650,5.25,1.1538,,,,2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,betrivers,2026-08-23 00:10:00+00,,,,,,,-1.5,1.5,133,-159,2.33,1.6289,8,-113,-107,1.885,1.9346,,,,2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,betrivers_ca,2026-08-23 00:10:00+00,20000,,,201,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,betrivers_ca_open,2026-08-23 00:10:00+00,1200,,,13,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,caesars,2026-08-23 00:10:00+00,,,,,,,-1.5,1.5,122,-145,2.22,1.6897,16.5,200,-275,3,1.3636,,,,2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,draftkings,2026-08-23 00:10:00+00,,,,,,,-1.5,1.5,124,-149,2.24,1.6711,8.5,-108,-112,1.9259,1.8929,,,,2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,fanatics,2026-08-23 00:10:00+00,,,,,,,-1.5,1.5,130,-160,2.3,1.625,9.5,100,-130,2,1.7692,,,,2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,fanduel,2026-08-23 00:10:00+00,,,,,,,-1.5,1.5,125,-150,2.25,1.6667,8,-110,-110,1.9091,1.9091,,,,2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,hardrock,2026-08-23 00:10:00+00,,,,,,,-1.5,1.5,130,-140,2.3,1.7143,16.5,195,-260,2.95,1.3846,,,,2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,maverick_games,2026-08-23 00:10:00+00,-189,136,,1.5291,2.36,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,maverick_games_open,2026-08-23 00:10:00+00,-179,131,,1.5587,2.31,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,mybookie,2026-08-23 00:10:00+00,129,-152,,2.29,1.6579,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,mybookie_open,2026-08-23 00:10:00+00,123,-144,,2.23,1.6944,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,paf,2026-08-23 00:10:00+00,25000,,,251,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,paf_open,2026-08-23 00:10:00+00,1600,-10000,,17,1.01,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,parx,2026-08-23 00:10:00+00,,,,,,,-1.5,1.5,133,-162,2.33,1.6173,8,-113,-107,1.885,1.9346,,,,2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,pinnacle,2026-08-23 00:10:00+00,765,-1492,,8.65,1.067,,1.5,2,-296,-205,1.3378,1.4878,12.5,-127,-101,1.7874,1.9901,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,pinnacle_open,2026-08-23 00:10:00+00,568,-853,,6.68,1.1172,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,pmu,2026-08-23 00:10:00+00,14000,,,141,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,pmu_open,2026-08-23 00:10:00+00,1150,,,12.5,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,rushbet,2026-08-23 00:10:00+00,25000,,,251,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,rushbet_open,2026-08-23 00:10:00+00,1100,,,12,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,tenbet,2026-08-23 00:10:00+00,,,,,,,,,,,,,7,130,,2.3,,,,,2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet,2026-08-23 00:10:00+00,25000,,,251,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_au,2026-08-23 00:10:00+00,25000,,,251,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_au_open,2026-08-23 00:10:00+00,1600,-10000,,17,1.01,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_be,2026-08-23 00:10:00+00,25000,,,251,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_be_open,2026-08-23 00:10:00+00,1600,-10000,,17,1.01,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_de,2026-08-23 00:10:00+00,25000,,,251,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_de_open,2026-08-23 00:10:00+00,1600,-10000,,17,1.01,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_dk,2026-08-23 00:10:00+00,25000,,,251,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_dk_open,2026-08-23 00:10:00+00,1600,-10000,,17,1.01,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_ee,2026-08-23 00:10:00+00,25000,,,251,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_ee_open,2026-08-23 00:10:00+00,1600,-10000,,17,1.01,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_fi,2026-08-23 00:10:00+00,25000,,,251,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_fi_open,2026-08-23 00:10:00+00,1600,-10000,,17,1.01,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_fr,2026-08-23 00:10:00+00,25000,,,251,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_fr_open,2026-08-23 00:10:00+00,1600,-10000,,17,1.01,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_ie,2026-08-23 00:10:00+00,25000,,,251,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_ie_open,2026-08-23 00:10:00+00,1600,-10000,,17,1.01,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_it,2026-08-23 00:10:00+00,25000,,,251,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_it_open,2026-08-23 00:10:00+00,1600,-10000,,17,1.01,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_nl,2026-08-23 00:10:00+00,25000,,,251,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_nl_open,2026-08-23 00:10:00+00,1600,-10000,,17,1.01,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_no,2026-08-23 00:10:00+00,25000,,,251,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_no_open,2026-08-23 00:10:00+00,1600,-10000,,17,1.01,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_open,2026-08-23 00:10:00+00,1600,-10000,,17,1.01,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_ro,2026-08-23 00:10:00+00,25000,,,251,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_ro_open,2026-08-23 00:10:00+00,1600,-10000,,17,1.01,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_se,2026-08-23 00:10:00+00,25000,,,251,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_se_open,2026-08-23 00:10:00+00,1600,-10000,,17,1.01,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,atg,2026-08-23 00:10:00+00,125,-152,,2.25,1.6579,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,atg_open,2026-08-23 00:10:00+00,118,-143,,2.18,1.6993,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,bet365,2026-08-23 00:10:00+00,,,,,,,1.5,-1.5,-125,105,1.8,2.05,11,100,-120,2,1.8333,,,,2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,betmgm,2026-08-23 00:10:00+00,,,,,,,1.5,-1.5,-125,105,1.8,2.05,11,-110,-110,1.9091,1.9091,,,,2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,betrivers,2026-08-23 00:10:00+00,,,,,,,1.5,-1.5,-125,104,1.8,2.04,11,-107,-113,1.9346,1.885,,,,2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,betrivers_ca,2026-08-23 00:10:00+00,128,-150,,2.28,1.6667,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,betrivers_ca_open,2026-08-23 00:10:00+00,120,-143,,2.2,1.6993,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,caesars,2026-08-23 00:10:00+00,,,,,,,1.5,-1.5,-125,105,1.8,2.05,8.5,1000,-3300,11,1.0303,,,,2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,draftkings,2026-08-23 00:10:00+00,,,,,,,1.5,-1.5,-126,104,1.7937,2.04,11,-102,-118,1.9804,1.8475,,,,2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,fanatics,2026-08-23 00:10:00+00,,,,,,,1.5,-1.5,-125,105,1.8,2.05,11,-105,-115,1.9524,1.8696,,,,2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,fanduel,2026-08-23 00:10:00+00,,,,,,,1.5,-1.5,-134,112,1.7463,2.12,10.5,-132,108,1.7576,2.08,,,,2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,hardrock,2026-08-23 00:10:00+00,,,,,,,1.5,-1.5,-125,115,1.8,2.15,7.5,-110,-115,1.9091,1.8696,,,,2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,maverick_games,2026-08-23 00:10:00+00,114,-156,,2.14,1.641,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,maverick_games_open,2026-08-23 00:10:00+00,115,-156,,2.15,1.641,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,mybookie,2026-08-23 00:10:00+00,315,-500,,4.15,1.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,mybookie_open,2026-08-23 00:10:00+00,120,-167,,2.2,1.5988,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,paf,2026-08-23 00:10:00+00,125,-152,,2.25,1.6579,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,paf_open,2026-08-23 00:10:00+00,118,-143,,2.18,1.6993,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,parx,2026-08-23 00:10:00+00,,,,,,,1.5,-1.5,-122,104,1.8197,2.04,11,-107,-113,1.9346,1.885,,,,2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,pinnacle,2026-08-23 00:10:00+00,988,-2182,,10.88,1.0458,,1,-2,100,135,2,2.35,7.5,336,-503,4.36,1.1988,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,pinnacle_open,2026-08-23 00:10:00+00,431,-606,,5.31,1.165,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,pmu,2026-08-23 00:10:00+00,114,-175,,2.14,1.5714,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,pmu_open,2026-08-23 00:10:00+00,108,-162,,2.08,1.6173,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,rushbet,2026-08-23 00:10:00+00,125,-152,,2.25,1.6579,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,rushbet_open,2026-08-23 00:10:00+00,117,-148,,2.17,1.6757,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,tenbet,2026-08-23 00:10:00+00,,,,,,,,,,,,,9.5,137,,2.37,,,,,2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet,2026-08-23 00:10:00+00,123,-155,,2.23,1.6452,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_au,2026-08-23 00:10:00+00,125,-152,,2.25,1.6579,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_au_open,2026-08-23 00:10:00+00,118,-143,,2.18,1.6993,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_be,2026-08-23 00:10:00+00,125,-152,,2.25,1.6579,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_be_open,2026-08-23 00:10:00+00,118,-143,,2.18,1.6993,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_de,2026-08-23 00:10:00+00,125,-152,,2.25,1.6579,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_de_open,2026-08-23 00:10:00+00,118,-143,,2.18,1.6993,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_dk,2026-08-23 00:10:00+00,125,-152,,2.25,1.6579,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_dk_open,2026-08-23 00:10:00+00,118,-143,,2.18,1.6993,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_ee,2026-08-23 00:10:00+00,123,-155,,2.23,1.6452,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_ee_open,2026-08-23 00:10:00+00,117,-148,,2.17,1.6757,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_fi,2026-08-23 00:10:00+00,125,-150,,2.25,1.6667,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_fi_open,2026-08-23 00:10:00+00,120,-143,,2.2,1.6993,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_fr,2026-08-23 00:10:00+00,125,-152,,2.25,1.6579,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_fr_open,2026-08-23 00:10:00+00,118,-143,,2.18,1.6993,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_ie,2026-08-23 00:10:00+00,123,-155,,2.23,1.6452,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_ie_open,2026-08-23 00:10:00+00,117,-148,,2.17,1.6757,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_it,2026-08-23 00:10:00+00,123,-155,,2.23,1.6452,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_it_open,2026-08-23 00:10:00+00,117,-148,,2.17,1.6757,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_nl,2026-08-23 00:10:00+00,125,-150,,2.25,1.6667,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_nl_open,2026-08-23 00:10:00+00,120,-143,,2.2,1.6993,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_no,2026-08-23 00:10:00+00,125,-152,,2.25,1.6579,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_no_open,2026-08-23 00:10:00+00,118,-143,,2.18,1.6993,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_open,2026-08-23 00:10:00+00,117,-148,,2.17,1.6757,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_ro,2026-08-23 00:10:00+00,125,-150,,2.25,1.6667,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_ro_open,2026-08-23 00:10:00+00,120,-143,,2.2,1.6993,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_se,2026-08-23 00:10:00+00,125,-150,,2.25,1.6667,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_se_open,2026-08-23 00:10:00+00,120,-143,,2.2,1.6993,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,fanduel,2026-08-23 00:11:00+00,10000,-100000,,101,1.001,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,fanduel_open,2026-08-23 00:11:00+00,1100,-1450,,12,1.069,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,atg,2026-08-23 00:11:00+00,2200,,,23,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,atg_open,2026-08-23 00:11:00+00,310,-435,,4.1,1.2299,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,betrivers_ca,2026-08-23 00:11:00+00,2200,,,23,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,betrivers_ca_open,2026-08-23 00:11:00+00,285,-455,,3.85,1.2198,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,fanduel,2026-08-23 00:11:00+00,3400,-4000,,35,1.025,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,fanduel_open,2026-08-23 00:11:00+00,370,-440,,4.7,1.2273,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,paf,2026-08-23 00:11:00+00,2200,,,23,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,paf_open,2026-08-23 00:11:00+00,310,-435,,4.1,1.2299,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,pmu,2026-08-23 00:11:00+00,2000,,,21,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,pmu_open,2026-08-23 00:11:00+00,270,-560,,3.7,1.1786,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,rushbet,2026-08-23 00:11:00+00,2200,,,23,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,rushbet_open,2026-08-23 00:11:00+00,275,-530,,3.75,1.1887,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet,2026-08-23 00:11:00+00,2200,,,23,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_au,2026-08-23 00:11:00+00,2200,,,23,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_au_open,2026-08-23 00:11:00+00,310,-435,,4.1,1.2299,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_be,2026-08-23 00:11:00+00,2200,,,23,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_be_open,2026-08-23 00:11:00+00,310,-435,,4.1,1.2299,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_de,2026-08-23 00:11:00+00,2200,,,23,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_de_open,2026-08-23 00:11:00+00,310,-435,,4.1,1.2299,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_dk,2026-08-23 00:11:00+00,2200,,,23,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_dk_open,2026-08-23 00:11:00+00,310,-435,,4.1,1.2299,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_ee,2026-08-23 00:11:00+00,2200,,,23,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_ee_open,2026-08-23 00:11:00+00,310,-435,,4.1,1.2299,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_fi,2026-08-23 00:11:00+00,2200,,,23,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_fi_open,2026-08-23 00:11:00+00,310,-435,,4.1,1.2299,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_fr,2026-08-23 00:11:00+00,2200,,,23,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_fr_open,2026-08-23 00:11:00+00,310,-435,,4.1,1.2299,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_ie,2026-08-23 00:11:00+00,2200,,,23,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_ie_open,2026-08-23 00:11:00+00,310,-435,,4.1,1.2299,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_it,2026-08-23 00:11:00+00,2200,,,23,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_it_open,2026-08-23 00:11:00+00,310,-435,,4.1,1.2299,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_nl,2026-08-23 00:11:00+00,2200,,,23,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_nl_open,2026-08-23 00:11:00+00,310,-435,,4.1,1.2299,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_no,2026-08-23 00:11:00+00,2200,,,23,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_no_open,2026-08-23 00:11:00+00,310,-435,,4.1,1.2299,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_open,2026-08-23 00:11:00+00,310,-435,,4.1,1.2299,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_ro,2026-08-23 00:11:00+00,2200,,,23,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_ro_open,2026-08-23 00:11:00+00,310,-435,,4.1,1.2299,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_se,2026-08-23 00:11:00+00,2200,,,23,,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_se_open,2026-08-23 00:11:00+00,310,-435,,4.1,1.2299,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,betmgm,2026-08-23 00:35:00+00,,,,,,,,,,,,,16.5,3300,-10000,34,1.01,,,,2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,atg,2026-08-23 00:40:00+00,-162,132,,1.6173,2.32,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,atg_open,2026-08-23 00:40:00+00,-175,140,,1.5714,2.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,bet365,2026-08-23 00:40:00+00,,,,,,,-1.5,1.5,135,-160,2.35,1.625,8,-105,-115,1.9524,1.8696,,,,2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,betmgm,2026-08-23 00:40:00+00,,,,,,,-2.5,2.5,210,-285,3.1,1.3509,8,-115,-105,1.8696,1.9524,,,,2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,betrivers,2026-08-23 00:40:00+00,,,,,,,-1.5,1.5,138,-167,2.38,1.5988,8,-107,-112,1.9346,1.8929,,,,2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,betrivers_ca,2026-08-23 00:40:00+00,-159,135,,1.6289,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,betrivers_ca_open,2026-08-23 00:40:00+00,-167,143,,1.5988,2.43,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,caesars,2026-08-23 00:40:00+00,,,,,,,-1.5,1.5,135,-160,2.35,1.625,11.5,110,-143,2.1,1.6993,,,,2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,draftkings,2026-08-23 00:40:00+00,,,,,,,-1.5,1.5,135,-163,2.35,1.6135,8,-108,-112,1.9259,1.8929,,,,2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,fanatics,2026-08-23 00:40:00+00,,,,,,,-1.5,1.5,145,-180,2.45,1.5556,8,-105,-115,1.9524,1.8696,,,,2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,fanduel,2026-08-23 00:40:00+00,,,,,,,-1.5,1.5,136,-164,2.36,1.6098,8,-100,-122,2,1.8197,,,,2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,hardrock,2026-08-23 00:40:00+00,,,,,,,-1.5,1.5,150,-160,2.5,1.625,12.5,350,-525,4.5,1.1905,,,,2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,maverick_games,2026-08-23 00:40:00+00,-175,128,,1.5714,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,maverick_games_open,2026-08-23 00:40:00+00,-175,128,,1.5714,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,mybookie,2026-08-23 00:40:00+00,280,-455,,3.8,1.2198,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,mybookie_open,2026-08-23 00:40:00+00,100,-143,,2,1.6993,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,paf,2026-08-23 00:40:00+00,-162,132,,1.6173,2.32,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,paf_open,2026-08-23 00:40:00+00,-175,140,,1.5714,2.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,parx,2026-08-23 00:40:00+00,,,,,,,-1.5,1.5,138,-167,2.38,1.5988,8,-108,-113,1.9259,1.885,,,,2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,pinnacle,2026-08-23 00:40:00+00,-2041,945,,1.049,10.45,,-1.5,1.5,133,-151,2.33,1.6623,11.5,-141,110,1.7092,2.1,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,pinnacle_open,2026-08-23 00:40:00+00,189,-236,,2.89,1.4237,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,pmu,2026-08-23 00:40:00+00,-186,120,,1.5376,2.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,pmu_open,2026-08-23 00:40:00+00,-195,128,,1.5128,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,rushbet,2026-08-23 00:40:00+00,-162,132,,1.6173,2.32,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,rushbet_open,2026-08-23 00:40:00+00,-175,140,,1.5714,2.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,tenbet,2026-08-23 00:40:00+00,,,,,,,,,,,,,10,-264,,1.3788,,,,,2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet,2026-08-23 00:40:00+00,-165,132,,1.6061,2.32,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_au,2026-08-23 00:40:00+00,-162,132,,1.6173,2.32,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_au_open,2026-08-23 00:40:00+00,-175,140,,1.5714,2.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_be,2026-08-23 00:40:00+00,-162,132,,1.6173,2.32,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_be_open,2026-08-23 00:40:00+00,-175,140,,1.5714,2.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_de,2026-08-23 00:40:00+00,-162,132,,1.6173,2.32,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_de_open,2026-08-23 00:40:00+00,-175,140,,1.5714,2.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_dk,2026-08-23 00:40:00+00,-162,132,,1.6173,2.32,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_dk_open,2026-08-23 00:40:00+00,-175,140,,1.5714,2.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_ee,2026-08-23 00:40:00+00,-165,132,,1.6061,2.32,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_ee_open,2026-08-23 00:40:00+00,-175,138,,1.5714,2.38,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_fi,2026-08-23 00:40:00+00,-159,135,,1.6289,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_fi_open,2026-08-23 00:40:00+00,-167,140,,1.5988,2.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_fr,2026-08-23 00:40:00+00,-162,132,,1.6173,2.32,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_fr_open,2026-08-23 00:40:00+00,-175,140,,1.5714,2.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_ie,2026-08-23 00:40:00+00,-165,132,,1.6061,2.32,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_ie_open,2026-08-23 00:40:00+00,-175,138,,1.5714,2.38,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_it,2026-08-23 00:40:00+00,-165,132,,1.6061,2.32,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_it_open,2026-08-23 00:40:00+00,-175,138,,1.5714,2.38,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_nl,2026-08-23 00:40:00+00,-159,135,,1.6289,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_nl_open,2026-08-23 00:40:00+00,-167,140,,1.5988,2.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_no,2026-08-23 00:40:00+00,-162,132,,1.6173,2.32,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_no_open,2026-08-23 00:40:00+00,-175,140,,1.5714,2.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_open,2026-08-23 00:40:00+00,-175,138,,1.5714,2.38,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_ro,2026-08-23 00:40:00+00,-159,135,,1.6289,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_ro_open,2026-08-23 00:40:00+00,-167,140,,1.5988,2.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_se,2026-08-23 00:40:00+00,-159,135,,1.6289,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_se_open,2026-08-23 00:40:00+00,-167,140,,1.5988,2.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,atg,2026-08-23 00:41:00+00,,8000,,,81,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,atg_open,2026-08-23 00:41:00+00,350,-500,,4.5,1.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,betrivers_ca,2026-08-23 00:41:00+00,,7500,,,76,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,betrivers_ca_open,2026-08-23 00:41:00+00,320,-530,,4.2,1.1887,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,fanduel,2026-08-23 00:41:00+00,-50000,10000,,1.002,101,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,fanduel_open,2026-08-23 00:41:00+00,320,-390,,4.2,1.2564,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,paf,2026-08-23 00:41:00+00,,8000,,,81,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,paf_open,2026-08-23 00:41:00+00,350,-500,,4.5,1.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,pmu,2026-08-23 00:41:00+00,,7000,,,71,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,pmu_open,2026-08-23 00:41:00+00,300,-625,,4,1.16,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,rushbet,2026-08-23 00:41:00+00,,8000,,,81,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,rushbet_open,2026-08-23 00:41:00+00,300,-625,,4,1.16,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet,2026-08-23 00:41:00+00,,8000,,,81,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_au,2026-08-23 00:41:00+00,,8000,,,81,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_au_open,2026-08-23 00:41:00+00,350,-500,,4.5,1.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_be,2026-08-23 00:41:00+00,,8000,,,81,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_be_open,2026-08-23 00:41:00+00,350,-500,,4.5,1.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_de,2026-08-23 00:41:00+00,,8000,,,81,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_de_open,2026-08-23 00:41:00+00,350,-500,,4.5,1.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_dk,2026-08-23 00:41:00+00,,8000,,,81,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_dk_open,2026-08-23 00:41:00+00,350,-500,,4.5,1.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_ee,2026-08-23 00:41:00+00,,8000,,,81,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_ee_open,2026-08-23 00:41:00+00,350,-500,,4.5,1.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_fi,2026-08-23 00:41:00+00,,8000,,,81,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_fi_open,2026-08-23 00:41:00+00,350,-500,,4.5,1.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_fr,2026-08-23 00:41:00+00,,8000,,,81,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_fr_open,2026-08-23 00:41:00+00,350,-500,,4.5,1.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_ie,2026-08-23 00:41:00+00,,8000,,,81,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_ie_open,2026-08-23 00:41:00+00,350,-500,,4.5,1.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_it,2026-08-23 00:41:00+00,,8000,,,81,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_it_open,2026-08-23 00:41:00+00,350,-500,,4.5,1.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_nl,2026-08-23 00:41:00+00,,8000,,,81,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_nl_open,2026-08-23 00:41:00+00,350,-500,,4.5,1.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_no,2026-08-23 00:41:00+00,,8000,,,81,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_no_open,2026-08-23 00:41:00+00,350,-500,,4.5,1.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_open,2026-08-23 00:41:00+00,350,-500,,4.5,1.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_ro,2026-08-23 00:41:00+00,,8000,,,81,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_ro_open,2026-08-23 00:41:00+00,350,-500,,4.5,1.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_se,2026-08-23 00:41:00+00,,8000,,,81,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_se_open,2026-08-23 00:41:00+00,350,-500,,4.5,1.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,betmgm,2026-08-23 01:40:00+00,,,,,,,-1.5,1.5,170,-225,2.7,1.4444,7.5,-118,-102,1.8475,1.9804,,,,2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,atg,2026-08-23 17:35:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,atg_open,2026-08-23 17:35:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,bet365,2026-08-23 17:35:00+00,,,,,,,1.5,-1.5,-190,160,1.5263,2.6,8.5,-120,100,1.8333,2,,,,2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,betmgm,2026-08-23 17:35:00+00,,,,,,,1.5,-1.5,-170,140,1.5882,2.4,8.5,-118,-102,1.8475,1.9804,,,,2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,betrivers,2026-08-23 17:35:00+00,,,,,,,-1.5,1.5,155,-195,2.55,1.5128,9,-114,-125,1.8772,1.8,,,,2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,betrivers_ca,2026-08-23 17:35:00+00,-109,-109,,1.9174,1.9174,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,betrivers_ca_open,2026-08-23 17:35:00+00,-109,-109,,1.9174,1.9174,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,caesars,2026-08-23 17:35:00+00,,,,,,,1.5,-1.5,-170,143,1.5882,2.43,8.5,-120,100,1.8333,2,,,,2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,draftkings,2026-08-23 17:35:00+00,,,,,,,1.5,-1.5,-186,153,1.5376,2.53,8.5,-122,102,1.8197,2.02,,,,2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,fanatics,2026-08-23 17:35:00+00,,,,,,,1.5,-1.5,-190,155,1.5263,2.55,8.5,-120,100,1.8333,2,,,,2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,fanduel,2026-08-23 17:35:00+00,,,,,,,1.5,-1.5,-182,150,1.5495,2.5,8.5,-122,-100,1.8197,2,,,,2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,hardrock,2026-08-23 17:35:00+00,,,,,,,1.5,-1.5,-165,155,1.6061,2.55,8.5,-115,105,1.8696,2.05,,,,2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,maverick_games,2026-08-23 17:35:00+00,138,-185,,2.38,1.5405,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,maverick_games_open,2026-08-23 17:35:00+00,215,125,,3.15,2.25,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,mybookie,2026-08-23 17:35:00+00,-165,140,,1.6061,2.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,mybookie_open,2026-08-23 17:35:00+00,-173,146,,1.578,2.46,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,paf,2026-08-23 17:35:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,paf_open,2026-08-23 17:35:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,parx,2026-08-23 17:35:00+00,,,,,,,-1.5,1.5,155,-195,2.55,1.5128,9,-114,-125,1.8772,1.8,,,,2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,pinnacle,2026-08-23 17:35:00+00,-103,-107,,1.9709,1.9346,,-1,1.5,144,-235,2.44,1.4255,9.5,132,-156,2.32,1.641,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,pinnacle_open,2026-08-23 17:35:00+00,101,-111,,2.01,1.9009,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,pmu,2026-08-23 17:35:00+00,-122,-122,,1.8197,1.8197,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,pmu_open,2026-08-23 17:35:00+00,-122,-122,,1.8197,1.8197,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,rushbet,2026-08-23 17:35:00+00,-112,-112,,1.8929,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,rushbet_open,2026-08-23 17:35:00+00,-112,-112,,1.8929,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,tenbet,2026-08-23 17:35:00+00,,,,,,,,,,,,,8.5,-120,,1.8333,,,,,2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet,2026-08-23 17:35:00+00,-112,-112,,1.8929,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_au,2026-08-23 17:35:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_au_open,2026-08-23 17:35:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_be,2026-08-23 17:35:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_be_open,2026-08-23 17:35:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_de,2026-08-23 17:35:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_de_open,2026-08-23 17:35:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_dk,2026-08-23 17:35:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_dk_open,2026-08-23 17:35:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_ee,2026-08-23 17:35:00+00,-112,-112,,1.8929,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_ee_open,2026-08-23 17:35:00+00,-112,-112,,1.8929,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_fi,2026-08-23 17:35:00+00,-109,-109,,1.9174,1.9174,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_fi_open,2026-08-23 17:35:00+00,-109,-109,,1.9174,1.9174,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_fr,2026-08-23 17:35:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_fr_open,2026-08-23 17:35:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_ie,2026-08-23 17:35:00+00,-112,-112,,1.8929,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_ie_open,2026-08-23 17:35:00+00,-112,-112,,1.8929,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_it,2026-08-23 17:35:00+00,-112,-112,,1.8929,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_it_open,2026-08-23 17:35:00+00,-112,-112,,1.8929,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_nl,2026-08-23 17:35:00+00,-109,-109,,1.9174,1.9174,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_nl_open,2026-08-23 17:35:00+00,-109,-109,,1.9174,1.9174,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_no,2026-08-23 17:35:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_no_open,2026-08-23 17:35:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_open,2026-08-23 17:35:00+00,-112,-112,,1.8929,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_ro,2026-08-23 17:35:00+00,-109,-109,,1.9174,1.9174,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_ro_open,2026-08-23 17:35:00+00,-109,-109,,1.9174,1.9174,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_se,2026-08-23 17:35:00+00,-109,-109,,1.9174,1.9174,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,unibet_se_open,2026-08-23 17:35:00+00,-109,-109,,1.9174,1.9174,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,atg,2026-08-23 17:35:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,atg_open,2026-08-23 17:35:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,bet365,2026-08-23 17:35:00+00,,,,,,,-1.5,1.5,165,-200,2.65,1.5,8,-115,-105,1.8696,1.9524,,,,2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,betmgm,2026-08-23 17:35:00+00,,,,,,,-1.5,1.5,150,-185,2.5,1.5405,7.5,-118,-102,1.8475,1.9804,,,,2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,betrivers,2026-08-23 17:35:00+00,,,,,,,-1.5,1.5,160,-205,2.6,1.4878,8,-107,-113,1.9346,1.885,,,,2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,betrivers_ca,2026-08-23 17:35:00+00,-134,114,,1.7463,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,betrivers_ca_open,2026-08-23 17:35:00+00,-136,114,,1.7353,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,caesars,2026-08-23 17:35:00+00,,,,,,,-1.5,1.5,158,-190,2.58,1.5263,8,105,-125,2.05,1.8,,,,2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,draftkings,2026-08-23 17:35:00+00,,,,,,,-1.5,1.5,162,-198,2.62,1.5051,8,-118,-102,1.8475,1.9804,,,,2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,fanatics,2026-08-23 17:35:00+00,,,,,,,-1.5,1.5,155,-190,2.55,1.5263,8,-115,-105,1.8696,1.9524,,,,2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,fanduel,2026-08-23 17:35:00+00,,,,,,,-1.5,1.5,172,-210,2.72,1.4762,8,-110,-110,1.9091,1.9091,,,,2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,hardrock,2026-08-23 17:35:00+00,,,,,,,-1.5,1.5,160,-170,2.6,1.5882,7.5,-110,100,1.9091,2,,,,2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,maverick_games,2026-08-23 17:35:00+00,-149,113,,1.6711,2.13,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,maverick_games_open,2026-08-23 17:35:00+00,-152,115,,1.6579,2.15,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,mybookie,2026-08-23 17:35:00+00,151,-180,,2.51,1.5556,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,mybookie_open,2026-08-23 17:35:00+00,149,-177,,2.49,1.565,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,paf,2026-08-23 17:35:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,paf_open,2026-08-23 17:35:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,parx,2026-08-23 17:35:00+00,,,,,,,-1.5,1.5,160,-205,2.6,1.4878,8,-107,-113,1.9346,1.885,,,,2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,pinnacle,2026-08-23 17:35:00+00,-136,123,,1.7353,2.23,,-2,1.5,211,-180,3.11,1.5556,6,-256,202,1.3906,3.02,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,pinnacle_open,2026-08-23 17:35:00+00,-131,118,,1.7634,2.18,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,pmu,2026-08-23 17:35:00+00,-152,102,,1.6579,2.02,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,pmu_open,2026-08-23 17:35:00+00,-155,102,,1.6452,2.02,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,rushbet,2026-08-23 17:35:00+00,-136,110,,1.7353,2.1,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,rushbet_open,2026-08-23 17:35:00+00,-137,112,,1.7299,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,tenbet,2026-08-23 17:35:00+00,,,,,,,,,,,,,7.5,-106,,1.9434,,,,,2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet,2026-08-23 17:35:00+00,-137,110,,1.7299,2.1,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_au,2026-08-23 17:35:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_au_open,2026-08-23 17:35:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_be,2026-08-23 17:35:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_be_open,2026-08-23 17:35:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_de,2026-08-23 17:35:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_de_open,2026-08-23 17:35:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_dk,2026-08-23 17:35:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_dk_open,2026-08-23 17:35:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_ee,2026-08-23 17:35:00+00,-137,110,,1.7299,2.1,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_ee_open,2026-08-23 17:35:00+00,-137,112,,1.7299,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_fi,2026-08-23 17:35:00+00,-134,114,,1.7463,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_fi_open,2026-08-23 17:35:00+00,-136,114,,1.7353,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_fr,2026-08-23 17:35:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_fr_open,2026-08-23 17:35:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_ie,2026-08-23 17:35:00+00,-137,110,,1.7299,2.1,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_ie_open,2026-08-23 17:35:00+00,-137,112,,1.7299,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_it,2026-08-23 17:35:00+00,-137,110,,1.7299,2.1,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_it_open,2026-08-23 17:35:00+00,-137,112,,1.7299,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_nl,2026-08-23 17:35:00+00,-134,114,,1.7463,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_nl_open,2026-08-23 17:35:00+00,-136,114,,1.7353,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_no,2026-08-23 17:35:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_no_open,2026-08-23 17:35:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_open,2026-08-23 17:35:00+00,-137,112,,1.7299,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_ro,2026-08-23 17:35:00+00,-134,114,,1.7463,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_ro_open,2026-08-23 17:35:00+00,-136,114,,1.7353,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_se,2026-08-23 17:35:00+00,-134,114,,1.7463,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,unibet_se_open,2026-08-23 17:35:00+00,-136,114,,1.7353,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,atg,2026-08-23 17:35:00+00,-220,175,,1.4545,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,atg_open,2026-08-23 17:35:00+00,-220,175,,1.4545,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,bet365,2026-08-23 17:35:00+00,,,,,,,-1.5,1.5,100,-120,2,1.8333,8,-110,-110,1.9091,1.9091,,,,2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,betmgm,2026-08-23 17:35:00+00,,,,,,,-1.5,1.5,100,-120,2,1.8333,7.5,-115,-105,1.8696,1.9524,,,,2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,betrivers,2026-08-23 17:35:00+00,,,,,,,-1.5,1.5,105,-129,2.05,1.7752,8,-105,-115,1.9524,1.8696,,,,2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,betrivers_ca,2026-08-23 17:35:00+00,-220,180,,1.4545,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,betrivers_ca_open,2026-08-23 17:35:00+00,-220,180,,1.4545,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,caesars,2026-08-23 17:35:00+00,,,,,,,-1.5,1.5,100,-120,2,1.8333,7.5,-115,-105,1.8696,1.9524,,,,2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,draftkings,2026-08-23 17:35:00+00,,,,,,,-1.5,1.5,-106,-114,1.9434,1.8772,8,-117,-103,1.8547,1.9709,,,,2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,fanatics,2026-08-23 17:35:00+00,,,,,,,-1.5,1.5,100,-120,2,1.8333,8,-105,-115,1.9524,1.8696,,,,2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,fanduel,2026-08-23 17:35:00+00,,,,,,,-1.5,1.5,-100,-120,2,1.8333,7.5,-124,102,1.8065,2.02,,,,2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,hardrock,2026-08-23 17:35:00+00,,,,,,,-1.5,1.5,105,-115,2.05,1.8696,7.5,-110,100,1.9091,2,,,,2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,maverick_games,2026-08-23 17:35:00+00,-103,-128,,1.9709,1.7812,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,maverick_games_open,2026-08-23 17:35:00+00,-105,-127,,1.9524,1.7874,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,mybookie,2026-08-23 17:35:00+00,101,-118,,2.01,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,mybookie_open,2026-08-23 17:35:00+00,100,-117,,2,1.8547,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,paf,2026-08-23 17:35:00+00,-220,175,,1.4545,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,paf_open,2026-08-23 17:35:00+00,-220,175,,1.4545,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,parx,2026-08-23 17:35:00+00,,,,,,,-1.5,1.5,105,-129,2.05,1.7752,8,-105,-115,1.9524,1.8696,,,,2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,pinnacle,2026-08-23 17:35:00+00,-215,190,,1.4651,2.9,,-2.5,-1.5,164,291,2.64,3.91,8.5,129,-152,2.29,1.6579,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,pinnacle_open,2026-08-23 17:35:00+00,-212,188,,1.4717,2.88,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,pmu,2026-08-23 17:35:00+00,-265,165,,1.3774,2.65,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,pmu_open,2026-08-23 17:35:00+00,-265,163,,1.3774,2.63,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,rushbet,2026-08-23 17:35:00+00,-225,175,,1.4444,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,rushbet_open,2026-08-23 17:35:00+00,-225,175,,1.4444,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,tenbet,2026-08-23 17:35:00+00,,,,,,,,,,,,,7.5,-110,,1.9091,,,,,2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet,2026-08-23 17:35:00+00,-225,175,,1.4444,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_au,2026-08-23 17:35:00+00,-220,175,,1.4545,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_au_open,2026-08-23 17:35:00+00,-220,175,,1.4545,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_be,2026-08-23 17:35:00+00,-220,175,,1.4545,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_be_open,2026-08-23 17:35:00+00,-220,175,,1.4545,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_de,2026-08-23 17:35:00+00,-220,175,,1.4545,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_de_open,2026-08-23 17:35:00+00,-220,175,,1.4545,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_dk,2026-08-23 17:35:00+00,-220,175,,1.4545,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_dk_open,2026-08-23 17:35:00+00,-220,175,,1.4545,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_ee,2026-08-23 17:35:00+00,-225,175,,1.4444,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_ee_open,2026-08-23 17:35:00+00,-225,175,,1.4444,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_fi,2026-08-23 17:35:00+00,-220,180,,1.4545,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_fi_open,2026-08-23 17:35:00+00,-220,180,,1.4545,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_fr,2026-08-23 17:35:00+00,-220,175,,1.4545,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_fr_open,2026-08-23 17:35:00+00,-220,175,,1.4545,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_ie,2026-08-23 17:35:00+00,-225,175,,1.4444,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_ie_open,2026-08-23 17:35:00+00,-225,175,,1.4444,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_it,2026-08-23 17:35:00+00,-225,175,,1.4444,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_it_open,2026-08-23 17:35:00+00,-225,175,,1.4444,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_nl,2026-08-23 17:35:00+00,-220,180,,1.4545,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_nl_open,2026-08-23 17:35:00+00,-220,180,,1.4545,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_no,2026-08-23 17:35:00+00,-220,175,,1.4545,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_no_open,2026-08-23 17:35:00+00,-220,175,,1.4545,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_open,2026-08-23 17:35:00+00,-225,175,,1.4444,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_ro,2026-08-23 17:35:00+00,-220,180,,1.4545,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_ro_open,2026-08-23 17:35:00+00,-220,180,,1.4545,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_se,2026-08-23 17:35:00+00,-220,180,,1.4545,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,unibet_se_open,2026-08-23 17:35:00+00,-220,180,,1.4545,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,fanduel,2026-08-23 17:36:00+00,-104,-104,,1.9615,1.9615,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Baltimore Orioles,Tampa Bay Rays,fanduel_open,2026-08-23 17:36:00+00,-108,-108,,1.9259,1.9259,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,fanduel,2026-08-23 17:36:00+00,-132,122,,1.7576,2.22,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,New York Yankees,Toronto Blue Jays,fanduel_open,2026-08-23 17:36:00+00,-138,118,,1.7246,2.18,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,fanduel,2026-08-23 17:36:00+00,-205,190,,1.4878,2.9,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Philadelphia Phillies,St. Louis Cardinals,fanduel_open,2026-08-23 17:36:00+00,-220,184,,1.4545,2.84,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,atg,2026-08-23 17:40:00+00,-155,128,,1.6452,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,atg_open,2026-08-23 17:40:00+00,-155,128,,1.6452,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,bet365,2026-08-23 17:40:00+00,,,,,,,-1.5,1.5,130,-155,2.3,1.6452,8,-115,-105,1.8696,1.9524,,,,2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,betmgm,2026-08-23 17:40:00+00,,,,,,,-1.5,1.5,135,-160,2.35,1.625,8.5,-105,-115,1.9524,1.8696,,,,2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,betrivers,2026-08-23 17:40:00+00,,,,,,,-1.5,1.5,138,-167,2.38,1.5988,8,-117,-104,1.8547,1.9615,,,,2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,betrivers_ca,2026-08-23 17:40:00+00,-155,130,,1.6452,2.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,betrivers_ca_open,2026-08-23 17:40:00+00,-155,130,,1.6452,2.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,caesars,2026-08-23 17:40:00+00,,,,,,,-1.5,1.5,135,-160,2.35,1.625,8.5,-105,-115,1.9524,1.8696,,,,2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,draftkings,2026-08-23 17:40:00+00,,,,,,,-1.5,1.5,130,-157,2.3,1.6369,8,-118,-102,1.8475,1.9804,,,,2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,fanatics,2026-08-23 17:40:00+00,,,,,,,-1.5,1.5,130,-160,2.3,1.625,8.5,100,-120,2,1.8333,,,,2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,fanduel,2026-08-23 17:40:00+00,,,,,,,-1.5,1.5,126,-152,2.26,1.6579,8.5,-100,-122,2,1.8197,,,,2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,hardrock,2026-08-23 17:40:00+00,,,,,,,-1.5,1.5,130,-140,2.3,1.7143,8.5,100,-110,2,1.9091,,,,2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,maverick_games,2026-08-23 17:40:00+00,160,205,,2.6,3.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,maverick_games_open,2026-08-23 17:40:00+00,-172,128,,1.5814,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,mybookie,2026-08-23 17:40:00+00,129,-152,,2.29,1.6579,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,mybookie_open,2026-08-23 17:40:00+00,124,-146,,2.24,1.6849,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,paf,2026-08-23 17:40:00+00,-155,128,,1.6452,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,paf_open,2026-08-23 17:40:00+00,-155,128,,1.6452,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,parx,2026-08-23 17:40:00+00,,,,,,,-1.5,1.5,138,-167,2.38,1.5988,8,-117,-104,1.8547,1.9615,,,,2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,pinnacle,2026-08-23 17:40:00+00,-153,138,,1.6536,2.38,,-2,2,180,-213,2.8,1.4695,6.5,-232,186,1.431,2.86,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,pinnacle_open,2026-08-23 17:40:00+00,-152,137,,1.6579,2.37,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,pmu,2026-08-23 17:40:00+00,-177,117,,1.565,2.17,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,pmu_open,2026-08-23 17:40:00+00,-177,117,,1.565,2.17,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,rushbet,2026-08-23 17:40:00+00,-157,128,,1.6369,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,rushbet_open,2026-08-23 17:40:00+00,-157,128,,1.6369,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,tenbet,2026-08-23 17:40:00+00,,,,,,,,,,,,,8.5,-112,,1.8929,,,,,2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet,2026-08-23 17:40:00+00,-157,125,,1.6369,2.25,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_au,2026-08-23 17:40:00+00,-155,128,,1.6452,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_au_open,2026-08-23 17:40:00+00,-155,128,,1.6452,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_be,2026-08-23 17:40:00+00,-155,128,,1.6452,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_be_open,2026-08-23 17:40:00+00,-155,128,,1.6452,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_de,2026-08-23 17:40:00+00,-155,128,,1.6452,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_de_open,2026-08-23 17:40:00+00,-155,128,,1.6452,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_dk,2026-08-23 17:40:00+00,-155,128,,1.6452,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_dk_open,2026-08-23 17:40:00+00,-155,128,,1.6452,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_ee,2026-08-23 17:40:00+00,-157,125,,1.6369,2.25,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_ee_open,2026-08-23 17:40:00+00,-157,125,,1.6369,2.25,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_fi,2026-08-23 17:40:00+00,-155,130,,1.6452,2.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_fi_open,2026-08-23 17:40:00+00,-155,130,,1.6452,2.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_fr,2026-08-23 17:40:00+00,-155,128,,1.6452,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_fr_open,2026-08-23 17:40:00+00,-155,128,,1.6452,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_ie,2026-08-23 17:40:00+00,-157,125,,1.6369,2.25,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_ie_open,2026-08-23 17:40:00+00,-157,125,,1.6369,2.25,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_it,2026-08-23 17:40:00+00,-157,125,,1.6369,2.25,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_it_open,2026-08-23 17:40:00+00,-157,125,,1.6369,2.25,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_nl,2026-08-23 17:40:00+00,-155,130,,1.6452,2.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_nl_open,2026-08-23 17:40:00+00,-155,130,,1.6452,2.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_no,2026-08-23 17:40:00+00,-155,128,,1.6452,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_no_open,2026-08-23 17:40:00+00,-155,128,,1.6452,2.28,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_open,2026-08-23 17:40:00+00,-157,125,,1.6369,2.25,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_ro,2026-08-23 17:40:00+00,-155,130,,1.6452,2.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_ro_open,2026-08-23 17:40:00+00,-155,130,,1.6452,2.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_se,2026-08-23 17:40:00+00,-155,130,,1.6452,2.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,unibet_se_open,2026-08-23 17:40:00+00,-155,130,,1.6452,2.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,fanduel,2026-08-23 17:41:00+00,-154,142,,1.6494,2.42,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Miami Marlins,Washington Nationals,fanduel_open,2026-08-23 17:41:00+00,-162,136,,1.6173,2.36,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,atg,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,atg_open,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,bet365,2026-08-23 18:10:00+00,,,,,,,1.5,-1.5,-185,155,1.5405,2.55,8,-120,100,1.8333,2,,,,2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,betmgm,2026-08-23 18:10:00+00,,,,,,,1.5,-1.5,-185,150,1.5405,2.5,8,-118,-102,1.8475,1.9804,,,,2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,betrivers,2026-08-23 18:10:00+00,,,,,,,1.5,-1.5,-186,150,1.5376,2.5,8,-121,-118,1.8264,1.8475,,,,2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,betrivers_ca,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,betrivers_ca_open,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,caesars,2026-08-23 18:10:00+00,,,,,,,1.5,-1.5,-178,150,1.5618,2.5,8,-120,100,1.8333,2,,,,2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,draftkings,2026-08-23 18:10:00+00,,,,,,,1.5,-1.5,-180,148,1.5556,2.48,8.5,-103,-117,1.9709,1.8547,,,,2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,fanatics,2026-08-23 18:10:00+00,,,,,,,1.5,-1.5,-185,150,1.5405,2.5,8.5,100,-120,2,1.8333,,,,2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,fanduel,2026-08-23 18:10:00+00,,,,,,,1.5,-1.5,-184,152,1.5435,2.52,8.5,-100,-122,2,1.8197,,,,2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,hardrock,2026-08-23 18:10:00+00,,,,,,,1.5,-1.5,-165,155,1.6061,2.55,8.5,110,-120,2.1,1.8333,,,,2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,maverick_games,2026-08-23 18:10:00+00,-111,-119,,1.9009,1.8403,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,maverick_games_open,2026-08-23 18:10:00+00,-111,-119,,1.9009,1.8403,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,mybookie,2026-08-23 18:10:00+00,-182,153,,1.5495,2.53,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,mybookie_open,2026-08-23 18:10:00+00,-174,147,,1.5747,2.47,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,paf,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,paf_open,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,parx,2026-08-23 18:10:00+00,,,,,,,1.5,-1.5,-186,150,1.5376,2.5,8,-121,-118,1.8264,1.8475,,,,2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,pinnacle,2026-08-23 18:10:00+00,-102,-109,,1.9804,1.9174,,-1,1.5,147,-241,2.47,1.4149,7.5,-136,116,1.7353,2.16,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,pinnacle_open,2026-08-23 18:10:00+00,-102,-109,,1.9804,1.9174,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,pmu,2026-08-23 18:10:00+00,-113,-134,,1.885,1.7463,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,pmu_open,2026-08-23 18:10:00+00,-113,-134,,1.885,1.7463,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,rushbet,2026-08-23 18:10:00+00,-104,-121,,1.9615,1.8264,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,rushbet_open,2026-08-23 18:10:00+00,-104,-121,,1.9615,1.8264,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,tenbet,2026-08-23 18:10:00+00,,,,,,,,,,,,,8,-112,,1.8929,,,,,2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet,2026-08-23 18:10:00+00,-104,-121,,1.9615,1.8264,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_au,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_au_open,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_be,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_be_open,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_de,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_de_open,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_dk,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_dk_open,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_ee,2026-08-23 18:10:00+00,-104,-121,,1.9615,1.8264,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_ee_open,2026-08-23 18:10:00+00,-104,-121,,1.9615,1.8264,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_fi,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_fi_open,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_fr,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_fr_open,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_ie,2026-08-23 18:10:00+00,-104,-121,,1.9615,1.8264,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_ie_open,2026-08-23 18:10:00+00,-104,-121,,1.9615,1.8264,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_it,2026-08-23 18:10:00+00,-104,-121,,1.9615,1.8264,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_it_open,2026-08-23 18:10:00+00,-104,-121,,1.9615,1.8264,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_nl,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_nl_open,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_no,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_no_open,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_open,2026-08-23 18:10:00+00,-104,-121,,1.9615,1.8264,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_ro,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_ro_open,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_se,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,unibet_se_open,2026-08-23 18:10:00+00,-103,-118,,1.9709,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,atg,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,atg_open,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,bet365,2026-08-23 18:10:00+00,,,,,,,-1.5,1.5,110,-130,2.1,1.7692,9,100,-120,2,1.8333,,,,2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,betmgm,2026-08-23 18:10:00+00,,,,,,,-2.5,2.5,180,-220,2.8,1.4545,9,-105,-115,1.9524,1.8696,,,,2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,betrivers,2026-08-23 18:10:00+00,,,,,,,-1.5,1.5,112,-136,2.12,1.7353,9,-112,-127,1.8929,1.7874,,,,2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,betrivers_ca,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,betrivers_ca_open,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,caesars,2026-08-23 18:10:00+00,,,,,,,-1.5,1.5,110,-130,2.1,1.7692,9,-105,-115,1.9524,1.8696,,,,2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,draftkings,2026-08-23 18:10:00+00,,,,,,,-1.5,1.5,113,-136,2.13,1.7353,8.5,-120,100,1.8333,2,,,,2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,fanatics,2026-08-23 18:10:00+00,,,,,,,-1.5,1.5,110,-135,2.1,1.7407,8.5,-120,100,1.8333,2,,,,2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,fanduel,2026-08-23 18:10:00+00,,,,,,,-1.5,1.5,115,-138,2.15,1.7246,8.5,-124,102,1.8065,2.02,,,,2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,hardrock,2026-08-23 18:10:00+00,,,,,,,-1.5,1.5,120,-130,2.2,1.7692,8.5,120,115,2.2,2.15,,,,2026
+2026-08-23,baseball_mlb,Houston Astros,The Athletics,maverick_games,2026-08-23 18:10:00+00,105,210,,2.05,3.1,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,The Athletics,maverick_games_open,2026-08-23 18:10:00+00,-200,149,,1.5,2.49,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,mybookie,2026-08-23 18:10:00+00,115,-134,,2.15,1.7463,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,mybookie_open,2026-08-23 18:10:00+00,107,-126,,2.07,1.7937,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,paf,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,paf_open,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,parx,2026-08-23 18:10:00+00,,,,,,,-1.5,1.5,112,-136,2.12,1.7353,9,-112,-127,1.8929,1.7874,,,,2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,pinnacle,2026-08-23 18:10:00+00,-178,159,,1.5618,2.59,,-2,3,151,-297,2.51,1.3367,7,-242,193,1.4132,2.93,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,pinnacle_open,2026-08-23 18:10:00+00,-178,159,,1.5618,2.59,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,pmu,2026-08-23 18:10:00+00,-225,143,,1.4444,2.43,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,pmu_open,2026-08-23 18:10:00+00,-225,143,,1.4444,2.43,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,rushbet,2026-08-23 18:10:00+00,-195,155,,1.5128,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,rushbet_open,2026-08-23 18:10:00+00,-195,155,,1.5128,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,tenbet,2026-08-23 18:10:00+00,,,,,,,,,,,,,9,-110,,1.9091,,,,,2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet,2026-08-23 18:10:00+00,-195,155,,1.5128,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_au,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_au_open,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_be,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_be_open,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_de,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_de_open,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_dk,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_dk_open,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_ee,2026-08-23 18:10:00+00,-195,155,,1.5128,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_ee_open,2026-08-23 18:10:00+00,-195,155,,1.5128,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_fi,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_fi_open,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_fr,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_fr_open,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_ie,2026-08-23 18:10:00+00,-195,155,,1.5128,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_ie_open,2026-08-23 18:10:00+00,-195,155,,1.5128,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_it,2026-08-23 18:10:00+00,-195,155,,1.5128,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_it_open,2026-08-23 18:10:00+00,-195,155,,1.5128,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_nl,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_nl_open,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_no,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_no_open,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_open,2026-08-23 18:10:00+00,-195,155,,1.5128,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_ro,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_ro_open,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_se,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,unibet_se_open,2026-08-23 18:10:00+00,-190,155,,1.5263,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,atg,2026-08-23 18:10:00+00,-109,-112,,1.9174,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,atg_open,2026-08-23 18:10:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,bet365,2026-08-23 18:10:00+00,,,,,,,1.5,-1.5,-180,150,1.5556,2.5,8.5,-115,-105,1.8696,1.9524,,,,2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,betmgm,2026-08-23 18:10:00+00,,,,,,,1.5,-1.5,-190,155,1.5263,2.55,8.5,-110,-110,1.9091,1.9091,,,,2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,betrivers,2026-08-23 18:10:00+00,,,,,,,1.5,-1.5,-167,138,1.5988,2.38,8.5,-113,-106,1.885,1.9434,,,,2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,betrivers_ca,2026-08-23 18:10:00+00,-108,-110,,1.9259,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,betrivers_ca_open,2026-08-23 18:10:00+00,-109,-109,,1.9174,1.9174,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,caesars,2026-08-23 18:10:00+00,,,,,,,1.5,-1.5,-178,150,1.5618,2.5,8.5,-110,-110,1.9091,1.9091,,,,2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,draftkings,2026-08-23 18:10:00+00,,,,,,,1.5,-1.5,-175,144,1.5714,2.44,8.5,-108,-112,1.9259,1.8929,,,,2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,fanatics,2026-08-23 18:10:00+00,,,,,,,1.5,-1.5,-180,145,1.5556,2.45,8.5,-110,-110,1.9091,1.9091,,,,2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,fanduel,2026-08-23 18:10:00+00,,,,,,,1.5,-1.5,-178,146,1.5618,2.46,8.5,-114,-106,1.8772,1.9434,,,,2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,hardrock,2026-08-23 18:10:00+00,,,,,,,1.5,-1.5,-165,155,1.6061,2.55,8.5,-110,100,1.9091,2,,,,2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,maverick_games,2026-08-23 18:10:00+00,-112,-118,,1.8929,1.8475,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,maverick_games_open,2026-08-23 18:10:00+00,-111,-119,,1.9009,1.8403,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,mybookie,2026-08-23 18:10:00+00,-188,157,,1.5319,2.57,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,mybookie_open,2026-08-23 18:10:00+00,-173,146,,1.578,2.46,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,paf,2026-08-23 18:10:00+00,-109,-112,,1.9174,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,paf_open,2026-08-23 18:10:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,parx,2026-08-23 18:10:00+00,,,,,,,1.5,-1.5,-167,138,1.5988,2.38,8.5,-114,-107,1.8772,1.9346,,,,2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,pmu,2026-08-23 18:10:00+00,-121,-124,,1.8264,1.8065,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,pmu_open,2026-08-23 18:10:00+00,-122,-122,,1.8197,1.8197,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,rushbet,2026-08-23 18:10:00+00,-110,-113,,1.9091,1.885,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,rushbet_open,2026-08-23 18:10:00+00,-112,-112,,1.8929,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet,2026-08-23 18:10:00+00,-110,-113,,1.9091,1.885,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_au,2026-08-23 18:10:00+00,-109,-112,,1.9174,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_au_open,2026-08-23 18:10:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_be,2026-08-23 18:10:00+00,-109,-112,,1.9174,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_be_open,2026-08-23 18:10:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_de,2026-08-23 18:10:00+00,-109,-112,,1.9174,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_de_open,2026-08-23 18:10:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_dk,2026-08-23 18:10:00+00,-109,-112,,1.9174,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_dk_open,2026-08-23 18:10:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_ee,2026-08-23 18:10:00+00,-110,-113,,1.9091,1.885,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_ee_open,2026-08-23 18:10:00+00,-112,-112,,1.8929,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_fi,2026-08-23 18:10:00+00,-108,-110,,1.9259,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_fi_open,2026-08-23 18:10:00+00,-109,-109,,1.9174,1.9174,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_fr,2026-08-23 18:10:00+00,-109,-112,,1.9174,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_fr_open,2026-08-23 18:10:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_ie,2026-08-23 18:10:00+00,-110,-113,,1.9091,1.885,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_ie_open,2026-08-23 18:10:00+00,-112,-112,,1.8929,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_it,2026-08-23 18:10:00+00,-110,-113,,1.9091,1.885,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_it_open,2026-08-23 18:10:00+00,-112,-112,,1.8929,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_nl,2026-08-23 18:10:00+00,-108,-110,,1.9259,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_nl_open,2026-08-23 18:10:00+00,-109,-109,,1.9174,1.9174,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_no,2026-08-23 18:10:00+00,-109,-112,,1.9174,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_no_open,2026-08-23 18:10:00+00,-110,-110,,1.9091,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_open,2026-08-23 18:10:00+00,-112,-112,,1.8929,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_ro,2026-08-23 18:10:00+00,-108,-110,,1.9259,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_ro_open,2026-08-23 18:10:00+00,-109,-109,,1.9174,1.9174,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_se,2026-08-23 18:10:00+00,-108,-110,,1.9259,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,unibet_se_open,2026-08-23 18:10:00+00,-109,-109,,1.9174,1.9174,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,fanduel,2026-08-23 18:11:00+00,100,-108,,2,1.9259,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Chicago White Sox,New York Mets,fanduel_open,2026-08-23 18:11:00+00,-104,-112,,1.9615,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,fanduel,2026-08-23 18:11:00+00,-178,164,,1.5618,2.64,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Houston Astros,Athletics,fanduel_open,2026-08-23 18:11:00+00,-188,158,,1.5319,2.58,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,fanduel,2026-08-23 18:11:00+00,-108,100,,1.9259,2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Kansas City Royals,Detroit Tigers,fanduel_open,2026-08-23 18:11:00+00,-112,-104,,1.8929,1.9615,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,atg,2026-08-23 18:35:00+00,-165,135,,1.6061,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,atg_open,2026-08-23 18:35:00+00,-165,133,,1.6061,2.33,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,bet365,2026-08-23 18:35:00+00,,,,,,,-1.5,1.5,140,-160,2.4,1.625,8,-105,-115,1.9524,1.8696,,,,2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,betmgm,2026-08-23 18:35:00+00,,,,,,,-1.5,-1.5,135,220,2.35,3.2,8,-115,-105,1.8696,1.9524,,,,2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,betrivers,2026-08-23 18:35:00+00,,,,,,,-1.5,1.5,143,-175,2.43,1.5714,8,100,-118,2,1.8475,,,,2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,betrivers_ca,2026-08-23 18:35:00+00,-162,138,,1.6173,2.38,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,betrivers_ca_open,2026-08-23 18:35:00+00,-162,135,,1.6173,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,caesars,2026-08-23 18:35:00+00,,,,,,,-1.5,1.5,135,-160,2.35,1.625,8.5,105,-125,2.05,1.8,,,,2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,draftkings,2026-08-23 18:35:00+00,,,,,,,-1.5,1.5,137,-166,2.37,1.6024,8,-105,-115,1.9524,1.8696,,,,2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,fanatics,2026-08-23 18:35:00+00,,,,,,,-1.5,1.5,130,-160,2.3,1.625,7.5,-120,100,1.8333,2,,,,2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,fanduel,2026-08-23 18:35:00+00,,,,,,,-1.5,1.5,136,-164,2.36,1.6098,8,-105,-115,1.9524,1.8696,,,,2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,hardrock,2026-08-23 18:35:00+00,,,,,,,-1.5,1.5,150,-160,2.5,1.625,7.5,-120,110,1.8333,2.1,,,,2026
+2026-08-23,baseball_mlb,Texas Rangers,LA Angels,maverick_games,2026-08-23 18:35:00+00,-179,132,,1.5587,2.32,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,LA Angels,maverick_games_open,2026-08-23 18:35:00+00,-179,132,,1.5587,2.32,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,mybookie,2026-08-23 18:35:00+00,134,-158,,2.34,1.6329,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,mybookie_open,2026-08-23 18:35:00+00,150,-178,,2.5,1.5618,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,paf,2026-08-23 18:35:00+00,-165,135,,1.6061,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,paf_open,2026-08-23 18:35:00+00,-165,133,,1.6061,2.33,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,parx,2026-08-23 18:35:00+00,,,,,,,-1.5,1.5,143,-175,2.43,1.5714,8,-103,-120,1.9709,1.8333,,,,2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,pinnacle,2026-08-23 18:35:00+00,-158,142,,1.6329,2.42,,-3,3,270,-362,3.7,1.2762,6.5,-210,170,1.4762,2.7,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,pinnacle_open,2026-08-23 18:35:00+00,-158,142,,1.6329,2.42,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,pmu,2026-08-23 18:35:00+00,-186,123,,1.5376,2.23,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,pmu_open,2026-08-23 18:35:00+00,-186,123,,1.5376,2.23,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,rushbet,2026-08-23 18:35:00+00,-165,135,,1.6061,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,rushbet_open,2026-08-23 18:35:00+00,-167,133,,1.5988,2.33,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,tenbet,2026-08-23 18:35:00+00,,,,,,,,,,,,,8,100,,2,,,,,2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet,2026-08-23 18:35:00+00,-167,133,,1.5988,2.33,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_au,2026-08-23 18:35:00+00,-165,135,,1.6061,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_au_open,2026-08-23 18:35:00+00,-165,133,,1.6061,2.33,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_be,2026-08-23 18:35:00+00,-165,135,,1.6061,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_be_open,2026-08-23 18:35:00+00,-165,133,,1.6061,2.33,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_de,2026-08-23 18:35:00+00,-165,135,,1.6061,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_de_open,2026-08-23 18:35:00+00,-165,133,,1.6061,2.33,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_dk,2026-08-23 18:35:00+00,-165,135,,1.6061,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_dk_open,2026-08-23 18:35:00+00,-165,133,,1.6061,2.33,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_ee,2026-08-23 18:35:00+00,-167,133,,1.5988,2.33,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_ee_open,2026-08-23 18:35:00+00,-167,133,,1.5988,2.33,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_fi,2026-08-23 18:35:00+00,-162,135,,1.6173,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_fi_open,2026-08-23 18:35:00+00,-162,135,,1.6173,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_fr,2026-08-23 18:35:00+00,-165,135,,1.6061,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_fr_open,2026-08-23 18:35:00+00,-165,133,,1.6061,2.33,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_ie,2026-08-23 18:35:00+00,-167,133,,1.5988,2.33,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_ie_open,2026-08-23 18:35:00+00,-167,133,,1.5988,2.33,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_it,2026-08-23 18:35:00+00,-167,133,,1.5988,2.33,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_it_open,2026-08-23 18:35:00+00,-167,133,,1.5988,2.33,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_nl,2026-08-23 18:35:00+00,-162,135,,1.6173,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_nl_open,2026-08-23 18:35:00+00,-162,135,,1.6173,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_no,2026-08-23 18:35:00+00,-165,135,,1.6061,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_no_open,2026-08-23 18:35:00+00,-165,133,,1.6061,2.33,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_open,2026-08-23 18:35:00+00,-167,133,,1.5988,2.33,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_ro,2026-08-23 18:35:00+00,-162,135,,1.6173,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_ro_open,2026-08-23 18:35:00+00,-162,135,,1.6173,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_se,2026-08-23 18:35:00+00,-162,135,,1.6173,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,unibet_se_open,2026-08-23 18:35:00+00,-162,135,,1.6173,2.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,fanduel,2026-08-23 18:36:00+00,-154,142,,1.6494,2.42,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Texas Rangers,Los Angeles Angels,fanduel_open,2026-08-23 18:36:00+00,-134,116,,1.7463,2.16,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,pinnacle,2026-08-23 19:10:00+00,-221,195,,1.4525,2.95,,1.5,3,-399,-245,1.2506,1.4082,9.5,151,-180,2.51,1.5556,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,pinnacle_open,2026-08-23 19:10:00+00,-222,196,,1.4505,2.96,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,atg,2026-08-23 19:10:00+00,140,-167,,2.4,1.5988,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,atg_open,2026-08-23 19:10:00+00,132,-162,,2.32,1.6173,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,bet365,2026-08-23 19:10:00+00,,,,,,,1.5,-1.5,-110,-110,1.9091,1.9091,11,100,-120,2,1.8333,,,,2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,betmgm,2026-08-23 19:10:00+00,,,,,,,1.5,-1.5,-110,1600,1.9091,17,11,-120,100,1.8333,2,,,,2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,betrivers,2026-08-23 19:10:00+00,,,,,,,1.5,-1.5,-112,-109,1.8929,1.9174,10.5,-118,-103,1.8475,1.9709,,,,2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,betrivers_ca,2026-08-23 19:10:00+00,143,-167,,2.43,1.5988,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,betrivers_ca_open,2026-08-23 19:10:00+00,135,-162,,2.35,1.6173,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,caesars,2026-08-23 19:10:00+00,,,,,,,1.5,-1.5,300,-110,4,1.9091,11,-120,100,1.8333,2,,,,2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,draftkings,2026-08-23 19:10:00+00,,,,,,,1.5,-1.5,-110,-110,1.9091,1.9091,11,101,-121,2.01,1.8264,,,,2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,fanatics,2026-08-23 19:10:00+00,,,,,,,1.5,-1.5,-110,-110,1.9091,1.9091,10.5,-120,100,1.8333,2,,,,2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,fanduel,2026-08-23 19:10:00+00,,,,,,,1.5,-1.5,-113,-106,1.885,1.9434,11,-102,-120,1.9804,1.8333,,,,2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,hardrock,2026-08-23 19:10:00+00,,,,,,,1.5,1.5,145,-105,2.45,1.9524,11.5,110,-120,2.1,1.8333,,,,2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,maverick_games,2026-08-23 19:10:00+00,-114,-116,,1.8772,1.8621,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,maverick_games_open,2026-08-23 19:10:00+00,-119,-111,,1.8403,1.9009,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,mybookie,2026-08-23 19:10:00+00,-105,-112,,1.9524,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,mybookie_open,2026-08-23 19:10:00+00,-107,-110,,1.9346,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,paf,2026-08-23 19:10:00+00,140,-167,,2.4,1.5988,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,paf_open,2026-08-23 19:10:00+00,132,-162,,2.32,1.6173,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,parx,2026-08-23 19:10:00+00,,,,,,,1.5,-1.5,-112,-109,1.8929,1.9174,10.5,-118,-103,1.8475,1.9709,,,,2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,pinnacle,2026-08-23 19:10:00+00,145,-161,,2.45,1.6211,,1.5,-1.5,341,472,4.41,5.72,10,-173,143,1.578,2.43,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,pinnacle_open,2026-08-23 19:10:00+00,145,-162,,2.45,1.6173,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,pmu,2026-08-23 19:10:00+00,128,-195,,2.28,1.5128,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,pmu_open,2026-08-23 19:10:00+00,120,-186,,2.2,1.5376,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,rushbet,2026-08-23 19:10:00+00,140,-167,,2.4,1.5988,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,rushbet_open,2026-08-23 19:10:00+00,132,-165,,2.32,1.6061,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,tenbet,2026-08-23 19:10:00+00,,,,,,,,,,,,,11,100,,2,,,,,2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet,2026-08-23 19:10:00+00,138,-175,,2.38,1.5714,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_au,2026-08-23 19:10:00+00,140,-167,,2.4,1.5988,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_au_open,2026-08-23 19:10:00+00,132,-162,,2.32,1.6173,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_be,2026-08-23 19:10:00+00,140,-167,,2.4,1.5988,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_be_open,2026-08-23 19:10:00+00,132,-162,,2.32,1.6173,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_de,2026-08-23 19:10:00+00,140,-167,,2.4,1.5988,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_de_open,2026-08-23 19:10:00+00,132,-162,,2.32,1.6173,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_dk,2026-08-23 19:10:00+00,140,-167,,2.4,1.5988,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_dk_open,2026-08-23 19:10:00+00,132,-162,,2.32,1.6173,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_ee,2026-08-23 19:10:00+00,138,-175,,2.38,1.5714,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_ee_open,2026-08-23 19:10:00+00,132,-165,,2.32,1.6061,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_fi,2026-08-23 19:10:00+00,140,-167,,2.4,1.5988,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_fi_open,2026-08-23 19:10:00+00,135,-162,,2.35,1.6173,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_fr,2026-08-23 19:10:00+00,140,-167,,2.4,1.5988,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_fr_open,2026-08-23 19:10:00+00,132,-162,,2.32,1.6173,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_ie,2026-08-23 19:10:00+00,138,-175,,2.38,1.5714,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_ie_open,2026-08-23 19:10:00+00,132,-165,,2.32,1.6061,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_it,2026-08-23 19:10:00+00,138,-175,,2.38,1.5714,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_it_open,2026-08-23 19:10:00+00,132,-165,,2.32,1.6061,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_nl,2026-08-23 19:10:00+00,140,-167,,2.4,1.5988,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_nl_open,2026-08-23 19:10:00+00,135,-162,,2.35,1.6173,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_no,2026-08-23 19:10:00+00,140,-167,,2.4,1.5988,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_no_open,2026-08-23 19:10:00+00,132,-162,,2.32,1.6173,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_open,2026-08-23 19:10:00+00,132,-165,,2.32,1.6061,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_ro,2026-08-23 19:10:00+00,140,-167,,2.4,1.5988,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_ro_open,2026-08-23 19:10:00+00,135,-162,,2.35,1.6173,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_se,2026-08-23 19:10:00+00,140,-167,,2.4,1.5988,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,unibet_se_open,2026-08-23 19:10:00+00,135,-162,,2.35,1.6173,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,fanduel,2026-08-23 19:11:00+00,-205,190,,1.4878,2.9,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,fanduel_open,2026-08-23 19:11:00+00,-220,184,,1.4545,2.84,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,fanduel,2026-08-23 19:11:00+00,144,-156,,2.44,1.641,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Colorado Rockies,Cleveland Guardians,fanduel_open,2026-08-23 19:11:00+00,138,-164,,2.38,1.6098,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,atg,2026-08-23 19:15:00+00,-225,180,,1.4444,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,atg_open,2026-08-23 19:15:00+00,-230,185,,1.4348,2.85,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,bet365,2026-08-23 19:15:00+00,,,,,,,-1.5,1.5,-105,-115,1.9524,1.8696,8.5,-110,-110,1.9091,1.9091,,,,2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,betmgm,2026-08-23 19:15:00+00,,,,,,,-1.5,1.5,-110,-110,1.9091,1.9091,8,-115,-105,1.8696,1.9524,,,,2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,betrivers,2026-08-23 19:15:00+00,,,,,,,-1.5,1.5,102,-122,2.02,1.8197,8.5,-107,-113,1.9346,1.885,,,,2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,betrivers_ca,2026-08-23 19:15:00+00,-220,185,,1.4545,2.85,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,betrivers_ca_open,2026-08-23 19:15:00+00,-230,188,,1.4348,2.88,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,caesars,2026-08-23 19:15:00+00,,,,,,,-1.5,1.5,-110,-110,1.9091,1.9091,8,-115,-105,1.8696,1.9524,,,,2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,draftkings,2026-08-23 19:15:00+00,,,,,,,-1.5,1.5,-105,-117,1.9524,1.8547,8.5,-111,-108,1.9009,1.9259,,,,2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,fanatics,2026-08-23 19:15:00+00,,,,,,,-1.5,1.5,-105,-115,1.9524,1.8696,8.5,-110,-110,1.9091,1.9091,,,,2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,fanduel,2026-08-23 19:15:00+00,,,,,,,-1.5,1.5,102,-122,2.02,1.8197,8.5,-106,-114,1.9434,1.8772,,,,2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,hardrock,2026-08-23 19:15:00+00,,,,,,,-1.5,1.5,105,-115,2.05,1.8696,8.5,105,-115,2.05,1.8696,,,,2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,maverick_games,2026-08-23 19:15:00+00,-110,-120,,1.9091,1.8333,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,maverick_games_open,2026-08-23 19:15:00+00,-110,-120,,1.9091,1.8333,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,mybookie,2026-08-23 19:15:00+00,-107,-110,,1.9346,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,mybookie_open,2026-08-23 19:15:00+00,110,-129,,2.1,1.7752,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,paf,2026-08-23 19:15:00+00,-225,180,,1.4444,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,paf_open,2026-08-23 19:15:00+00,-230,185,,1.4348,2.85,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,parx,2026-08-23 19:15:00+00,,,,,,,-1.5,1.5,102,-122,2.02,1.8197,8.5,-107,-113,1.9346,1.885,,,,2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,pmu,2026-08-23 19:15:00+00,-265,165,,1.3774,2.65,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,pmu_open,2026-08-23 19:15:00+00,-275,170,,1.3636,2.7,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,rushbet,2026-08-23 19:15:00+00,-225,180,,1.4444,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,rushbet_open,2026-08-23 19:15:00+00,-235,180,,1.4255,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,tenbet,2026-08-23 19:15:00+00,,,,,,,,,,,,,8,-106,,1.9434,,,,,2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet,2026-08-23 19:15:00+00,-225,180,,1.4444,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_au,2026-08-23 19:15:00+00,-225,180,,1.4444,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_au_open,2026-08-23 19:15:00+00,-230,185,,1.4348,2.85,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_be,2026-08-23 19:15:00+00,-225,180,,1.4444,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_be_open,2026-08-23 19:15:00+00,-230,185,,1.4348,2.85,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_de,2026-08-23 19:15:00+00,-225,180,,1.4444,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_de_open,2026-08-23 19:15:00+00,-230,185,,1.4348,2.85,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_dk,2026-08-23 19:15:00+00,-225,180,,1.4444,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_dk_open,2026-08-23 19:15:00+00,-230,185,,1.4348,2.85,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_ee,2026-08-23 19:15:00+00,-225,180,,1.4444,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_ee_open,2026-08-23 19:15:00+00,-235,180,,1.4255,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_fi,2026-08-23 19:15:00+00,-220,180,,1.4545,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_fi_open,2026-08-23 19:15:00+00,-230,188,,1.4348,2.88,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_fr,2026-08-23 19:15:00+00,-225,180,,1.4444,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_fr_open,2026-08-23 19:15:00+00,-230,185,,1.4348,2.85,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_ie,2026-08-23 19:15:00+00,-225,180,,1.4444,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_ie_open,2026-08-23 19:15:00+00,-235,180,,1.4255,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_it,2026-08-23 19:15:00+00,-225,180,,1.4444,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_it_open,2026-08-23 19:15:00+00,-235,180,,1.4255,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_nl,2026-08-23 19:15:00+00,-220,180,,1.4545,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_nl_open,2026-08-23 19:15:00+00,-230,188,,1.4348,2.88,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_no,2026-08-23 19:15:00+00,-225,180,,1.4444,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_no_open,2026-08-23 19:15:00+00,-230,185,,1.4348,2.85,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_open,2026-08-23 19:15:00+00,-235,180,,1.4255,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_ro,2026-08-23 19:15:00+00,-220,180,,1.4545,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_ro_open,2026-08-23 19:15:00+00,-230,188,,1.4348,2.88,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_se,2026-08-23 19:15:00+00,-220,180,,1.4545,2.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Boston Red Sox,San Francisco Giants,unibet_se_open,2026-08-23 19:15:00+00,-230,188,,1.4348,2.88,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,LA Dodgers,Pittsburgh Pirates,maverick_games,2026-08-23 20:10:00+00,-323,224,,1.3096,3.24,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,LA Dodgers,Pittsburgh Pirates,maverick_games_open,2026-08-23 20:10:00+00,-125,270,,1.8,3.7,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,atg,2026-08-23 20:10:00+00,-286,230,,1.3497,3.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,atg_open,2026-08-23 20:10:00+00,-315,240,,1.3175,3.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,bet365,2026-08-23 20:10:00+00,,,,,,,-1.5,1.5,-135,115,1.7407,2.15,8.5,-110,-110,1.9091,1.9091,,,,2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,betmgm,2026-08-23 20:10:00+00,,,,,,,-2.5,2.5,125,-155,2.25,1.6452,8.5,-105,-115,1.9524,1.8696,,,,2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,betrivers,2026-08-23 20:10:00+00,,,,,,,-1.5,1.5,-137,112,1.7299,2.12,8.5,-108,-109,1.9259,1.9174,,,,2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,betrivers_ca,2026-08-23 20:10:00+00,-286,235,,1.3497,3.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,betrivers_ca_open,2026-08-23 20:10:00+00,-315,250,,1.3175,3.5,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,caesars,2026-08-23 20:10:00+00,,,,,,,-1.5,1.5,-125,105,1.8,2.05,8.5,-105,-115,1.9524,1.8696,,,,2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,draftkings,2026-08-23 20:10:00+00,,,,,,,-1.5,1.5,-132,109,1.7576,2.09,8.5,-112,-108,1.8929,1.9259,,,,2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,fanatics,2026-08-23 20:10:00+00,,,,,,,-1.5,1.5,-140,115,1.7143,2.15,8.5,-110,-110,1.9091,1.9091,,,,2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,fanduel,2026-08-23 20:10:00+00,,,,,,,-1.5,1.5,-128,106,1.7812,2.06,8.5,-112,-108,1.8929,1.9259,,,,2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,hardrock,2026-08-23 20:10:00+00,,,,,,,-1.5,1.5,-110,100,1.9091,2,8.5,105,-115,2.05,1.8696,,,,2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,mybookie,2026-08-23 20:10:00+00,-136,116,,1.7353,2.16,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,mybookie_open,2026-08-23 20:10:00+00,-133,113,,1.7519,2.13,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,paf,2026-08-23 20:10:00+00,-286,230,,1.3497,3.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,paf_open,2026-08-23 20:10:00+00,-315,240,,1.3175,3.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,parx,2026-08-23 20:10:00+00,,,,,,,-1.5,1.5,-137,112,1.7299,2.12,8.5,-108,-109,1.9259,1.9174,,,,2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,pinnacle,2026-08-23 20:10:00+00,-273,237,,1.3663,3.37,,-2,3,103,-199,2.03,1.5025,7,-188,157,1.5319,2.57,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,pinnacle_open,2026-08-23 20:10:00+00,-275,239,,1.3636,3.39,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,pmu,2026-08-23 20:10:00+00,-360,215,,1.2778,3.15,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,pmu_open,2026-08-23 20:10:00+00,-385,225,,1.2597,3.25,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,rushbet,2026-08-23 20:10:00+00,-295,230,,1.339,3.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,rushbet_open,2026-08-23 20:10:00+00,-315,240,,1.3175,3.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,tenbet,2026-08-23 20:10:00+00,,,,,,,,,,,,,8.5,-106,,1.9434,,,,,2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet,2026-08-23 20:10:00+00,-295,230,,1.339,3.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_au,2026-08-23 20:10:00+00,-286,230,,1.3497,3.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_au_open,2026-08-23 20:10:00+00,-315,240,,1.3175,3.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_be,2026-08-23 20:10:00+00,-286,230,,1.3497,3.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_be_open,2026-08-23 20:10:00+00,-315,240,,1.3175,3.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_de,2026-08-23 20:10:00+00,-286,230,,1.3497,3.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_de_open,2026-08-23 20:10:00+00,-315,240,,1.3175,3.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_dk,2026-08-23 20:10:00+00,-286,230,,1.3497,3.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_dk_open,2026-08-23 20:10:00+00,-315,240,,1.3175,3.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_ee,2026-08-23 20:10:00+00,-295,230,,1.339,3.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_ee_open,2026-08-23 20:10:00+00,-315,240,,1.3175,3.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_fi,2026-08-23 20:10:00+00,-286,235,,1.3497,3.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_fi_open,2026-08-23 20:10:00+00,-315,250,,1.3175,3.5,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_fr,2026-08-23 20:10:00+00,-286,230,,1.3497,3.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_fr_open,2026-08-23 20:10:00+00,-315,240,,1.3175,3.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_ie,2026-08-23 20:10:00+00,-295,230,,1.339,3.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_ie_open,2026-08-23 20:10:00+00,-315,240,,1.3175,3.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_it,2026-08-23 20:10:00+00,-295,230,,1.339,3.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_it_open,2026-08-23 20:10:00+00,-315,240,,1.3175,3.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_nl,2026-08-23 20:10:00+00,-286,235,,1.3497,3.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_nl_open,2026-08-23 20:10:00+00,-315,250,,1.3175,3.5,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_no,2026-08-23 20:10:00+00,-286,230,,1.3497,3.3,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_no_open,2026-08-23 20:10:00+00,-315,240,,1.3175,3.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_open,2026-08-23 20:10:00+00,-315,240,,1.3175,3.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_ro,2026-08-23 20:10:00+00,-286,235,,1.3497,3.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_ro_open,2026-08-23 20:10:00+00,-315,250,,1.3175,3.5,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_se,2026-08-23 20:10:00+00,-286,235,,1.3497,3.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,unibet_se_open,2026-08-23 20:10:00+00,-315,250,,1.3175,3.5,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,atg,2026-08-23 20:10:00+00,-143,118,,1.6993,2.18,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,atg_open,2026-08-23 20:10:00+00,-139,115,,1.7194,2.15,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,bet365,2026-08-23 20:10:00+00,,,,,,,-1.5,1.5,135,-160,2.35,1.625,8.5,-125,105,1.8,2.05,,,,2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,betmgm,2026-08-23 20:10:00+00,,,,,,,1.5,-1.5,3300,3300,34,34,8.5,-115,-105,1.8696,1.9524,,,,2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,betrivers,2026-08-23 20:10:00+00,,,,,,,-1.5,1.5,143,-177,2.43,1.565,8.5,-118,100,1.8475,2,,,,2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,betrivers_ca,2026-08-23 20:10:00+00,-141,120,,1.7092,2.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,betrivers_ca_open,2026-08-23 20:10:00+00,-139,117,,1.7194,2.17,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,caesars,2026-08-23 20:10:00+00,,,,,,,-1.5,1.5,143,-133,2.43,1.7519,8.5,-115,-105,1.8696,1.9524,,,,2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,draftkings,2026-08-23 20:10:00+00,,,,,,,-1.5,1.5,134,-162,2.34,1.6173,8.5,-122,102,1.8197,2.02,,,,2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,fanatics,2026-08-23 20:10:00+00,,,,,,,-1.5,1.5,135,-165,2.35,1.6061,9,100,-120,2,1.8333,,,,2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,fanduel,2026-08-23 20:10:00+00,,,,,,,-1.5,1.5,134,-162,2.34,1.6173,8.5,-122,-100,1.8197,2,,,,2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,hardrock,2026-08-23 20:10:00+00,,,,,,,-1.5,1.5,155,375,2.55,4.75,8.5,-110,100,1.9091,2,,,,2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,maverick_games,2026-08-23 20:10:00+00,125,175,,2.25,2.75,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,maverick_games_open,2026-08-23 20:10:00+00,160,185,,2.6,2.85,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,mybookie,2026-08-23 20:10:00+00,142,-168,,2.42,1.5952,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,mybookie_open,2026-08-23 20:10:00+00,137,-162,,2.37,1.6173,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,paf,2026-08-23 20:10:00+00,-143,118,,1.6993,2.18,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,paf_open,2026-08-23 20:10:00+00,-139,115,,1.7194,2.15,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,parx,2026-08-23 20:10:00+00,,,,,,,-1.5,1.5,143,-177,2.43,1.565,8.5,-120,-103,1.8333,1.9709,,,,2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,pinnacle,2026-08-23 20:10:00+00,-140,126,,1.7143,2.26,,-2,2,206,-165,3.06,1.6061,10,161,-197,2.61,1.5076,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,pinnacle_open,2026-08-23 20:10:00+00,-134,121,,1.7463,2.21,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,pmu,2026-08-23 20:10:00+00,-162,108,,1.6173,2.08,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,pmu_open,2026-08-23 20:10:00+00,-157,105,,1.6369,2.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,rushbet,2026-08-23 20:10:00+00,-143,118,,1.6993,2.18,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,rushbet_open,2026-08-23 20:10:00+00,-141,114,,1.7092,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,tenbet,2026-08-23 20:10:00+00,,,,,,,,,,,,,8.5,-110,,1.9091,,,,,2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet,2026-08-23 20:10:00+00,-148,117,,1.6757,2.17,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_au,2026-08-23 20:10:00+00,-143,118,,1.6993,2.18,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_au_open,2026-08-23 20:10:00+00,-139,115,,1.7194,2.15,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_be,2026-08-23 20:10:00+00,-143,118,,1.6993,2.18,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_be_open,2026-08-23 20:10:00+00,-139,115,,1.7194,2.15,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_de,2026-08-23 20:10:00+00,-143,118,,1.6993,2.18,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_de_open,2026-08-23 20:10:00+00,-139,115,,1.7194,2.15,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_dk,2026-08-23 20:10:00+00,-143,118,,1.6993,2.18,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_dk_open,2026-08-23 20:10:00+00,-139,115,,1.7194,2.15,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_ee,2026-08-23 20:10:00+00,-148,117,,1.6757,2.17,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_ee_open,2026-08-23 20:10:00+00,-141,114,,1.7092,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_fi,2026-08-23 20:10:00+00,-141,120,,1.7092,2.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_fi_open,2026-08-23 20:10:00+00,-139,117,,1.7194,2.17,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_fr,2026-08-23 20:10:00+00,-143,118,,1.6993,2.18,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_fr_open,2026-08-23 20:10:00+00,-139,115,,1.7194,2.15,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_ie,2026-08-23 20:10:00+00,-148,117,,1.6757,2.17,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_ie_open,2026-08-23 20:10:00+00,-141,114,,1.7092,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_it,2026-08-23 20:10:00+00,-148,117,,1.6757,2.17,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_it_open,2026-08-23 20:10:00+00,-141,114,,1.7092,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_nl,2026-08-23 20:10:00+00,-141,120,,1.7092,2.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_nl_open,2026-08-23 20:10:00+00,-139,117,,1.7194,2.17,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_no,2026-08-23 20:10:00+00,-143,118,,1.6993,2.18,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_no_open,2026-08-23 20:10:00+00,-139,115,,1.7194,2.15,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_open,2026-08-23 20:10:00+00,-141,114,,1.7092,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_ro,2026-08-23 20:10:00+00,-141,120,,1.7092,2.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_ro_open,2026-08-23 20:10:00+00,-139,117,,1.7194,2.17,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_se,2026-08-23 20:10:00+00,-141,120,,1.7092,2.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,unibet_se_open,2026-08-23 20:10:00+00,-139,117,,1.7194,2.17,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,atg,2026-08-23 20:10:00+00,-108,-113,,1.9259,1.885,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,atg_open,2026-08-23 20:10:00+00,-109,-112,,1.9174,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,bet365,2026-08-23 20:10:00+00,,,,,,,1.5,-1.5,-160,135,1.625,2.35,7.5,-110,-110,1.9091,1.9091,,,,2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,betmgm,2026-08-23 20:10:00+00,,,,,,,1.5,-1.5,-185,150,1.5405,2.5,7.5,-105,-115,1.9524,1.8696,,,,2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,betrivers,2026-08-23 20:10:00+00,,,,,,,1.5,-1.5,-175,143,1.5714,2.43,7.5,-107,-113,1.9346,1.885,,,,2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,betrivers_ca,2026-08-23 20:10:00+00,-106,-110,,1.9434,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,betrivers_ca_open,2026-08-23 20:10:00+00,-108,-110,,1.9259,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,caesars,2026-08-23 20:10:00+00,,,,,,,1.5,-1.5,-178,150,1.5618,2.5,7.5,-105,-115,1.9524,1.8696,,,,2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,draftkings,2026-08-23 20:10:00+00,,,,,,,1.5,-1.5,-163,135,1.6135,2.35,7.5,-110,-110,1.9091,1.9091,,,,2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,fanatics,2026-08-23 20:10:00+00,,,,,,,1.5,-1.5,-165,135,1.6061,2.35,7.5,-110,-110,1.9091,1.9091,,,,2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,fanduel,2026-08-23 20:10:00+00,,,,,,,1.5,-1.5,-160,132,1.625,2.32,7.5,-110,-110,1.9091,1.9091,,,,2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,hardrock,2026-08-23 20:10:00+00,,,,,,,1.5,-1.5,-155,145,1.6452,2.45,7.5,-105,-105,1.9524,1.9524,,,,2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,maverick_games,2026-08-23 20:10:00+00,170,125,,2.7,2.25,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,maverick_games_open,2026-08-23 20:10:00+00,185,115,,2.85,2.15,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,mybookie,2026-08-23 20:10:00+00,-183,154,,1.5464,2.54,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,mybookie_open,2026-08-23 20:10:00+00,-184,155,,1.5435,2.55,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,paf,2026-08-23 20:10:00+00,-108,-113,,1.9259,1.885,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,paf_open,2026-08-23 20:10:00+00,-109,-112,,1.9174,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,parx,2026-08-23 20:10:00+00,,,,,,,1.5,-1.5,-175,143,1.5714,2.43,7.5,-107,-113,1.9346,1.885,,,,2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,pinnacle,2026-08-23 20:10:00+00,-101,-109,,1.9901,1.9174,,2.5,-1,-311,122,1.3215,2.22,6.5,-175,148,1.5714,2.48,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,pinnacle_open,2026-08-23 20:10:00+00,-105,-105,,1.9524,1.9524,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,pmu,2026-08-23 20:10:00+00,-120,-125,,1.8333,1.8,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,pmu_open,2026-08-23 20:10:00+00,-121,-124,,1.8264,1.8065,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,rushbet,2026-08-23 20:10:00+00,-108,-113,,1.9259,1.885,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,rushbet_open,2026-08-23 20:10:00+00,-110,-113,,1.9091,1.885,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,tenbet,2026-08-23 20:10:00+00,,,,,,,,,,,,,7.5,-112,,1.8929,,,,,2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet,2026-08-23 20:10:00+00,-109,-114,,1.9174,1.8772,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_au,2026-08-23 20:10:00+00,-108,-113,,1.9259,1.885,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_au_open,2026-08-23 20:10:00+00,-109,-112,,1.9174,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_be,2026-08-23 20:10:00+00,-108,-113,,1.9259,1.885,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_be_open,2026-08-23 20:10:00+00,-109,-112,,1.9174,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_de,2026-08-23 20:10:00+00,-108,-113,,1.9259,1.885,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_de_open,2026-08-23 20:10:00+00,-109,-112,,1.9174,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_dk,2026-08-23 20:10:00+00,-108,-113,,1.9259,1.885,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_dk_open,2026-08-23 20:10:00+00,-109,-112,,1.9174,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_ee,2026-08-23 20:10:00+00,-109,-114,,1.9174,1.8772,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_ee_open,2026-08-23 20:10:00+00,-110,-113,,1.9091,1.885,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_fi,2026-08-23 20:10:00+00,-107,-112,,1.9346,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_fi_open,2026-08-23 20:10:00+00,-108,-110,,1.9259,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_fr,2026-08-23 20:10:00+00,-108,-113,,1.9259,1.885,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_fr_open,2026-08-23 20:10:00+00,-109,-112,,1.9174,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_ie,2026-08-23 20:10:00+00,-109,-114,,1.9174,1.8772,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_ie_open,2026-08-23 20:10:00+00,-110,-113,,1.9091,1.885,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_it,2026-08-23 20:10:00+00,-109,-114,,1.9174,1.8772,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_it_open,2026-08-23 20:10:00+00,-110,-113,,1.9091,1.885,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_nl,2026-08-23 20:10:00+00,-107,-112,,1.9346,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_nl_open,2026-08-23 20:10:00+00,-108,-110,,1.9259,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_no,2026-08-23 20:10:00+00,-108,-113,,1.9259,1.885,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_no_open,2026-08-23 20:10:00+00,-109,-112,,1.9174,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_open,2026-08-23 20:10:00+00,-110,-113,,1.9091,1.885,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_ro,2026-08-23 20:10:00+00,-107,-112,,1.9346,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_ro_open,2026-08-23 20:10:00+00,-108,-110,,1.9259,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_se,2026-08-23 20:10:00+00,-107,-112,,1.9346,1.8929,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,unibet_se_open,2026-08-23 20:10:00+00,-108,-110,,1.9259,1.9091,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,fanduel,2026-08-23 20:11:00+00,-290,235,,1.3448,3.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Los Angeles Dodgers,Pittsburgh Pirates,fanduel_open,2026-08-23 20:11:00+00,-290,235,,1.3448,3.35,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,fanduel,2026-08-23 20:11:00+00,-142,120,,1.7042,2.2,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,San Diego Padres,Minnesota Twins,fanduel_open,2026-08-23 20:11:00+00,-134,116,,1.7463,2.16,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,fanduel,2026-08-23 20:11:00+00,-108,-108,,1.9259,1.9259,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Seattle Mariners,Chicago Cubs,fanduel_open,2026-08-23 20:11:00+00,-108,-108,,1.9259,1.9259,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,atg,2026-08-23 20:15:00+00,-129,106,,1.7752,2.06,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,atg_open,2026-08-23 20:15:00+00,-137,112,,1.7299,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,bet365,2026-08-23 20:15:00+00,,,,,,,-1.5,1.5,140,-165,2.4,1.6061,8.5,-120,100,1.8333,2,,,,2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,betmgm,2026-08-23 20:15:00+00,,,,,,,5.5,1.5,155,-180,2.55,1.5556,8.5,-115,-105,1.8696,1.9524,,,,2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,betrivers,2026-08-23 20:15:00+00,,,,,,,-1.5,1.5,145,-177,2.45,1.565,9,102,-122,2.02,1.8197,,,,2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,betrivers_ca,2026-08-23 20:15:00+00,-125,108,,1.8,2.08,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,betrivers_ca_open,2026-08-23 20:15:00+00,-136,114,,1.7353,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,caesars,2026-08-23 20:15:00+00,,,,,,,5.5,1.5,200,-190,3,1.5263,8.5,-115,-105,1.8696,1.9524,,,,2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,draftkings,2026-08-23 20:15:00+00,,,,,,,-1.5,1.5,135,-163,2.35,1.6135,8.5,-120,100,1.8333,2,,,,2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,fanatics,2026-08-23 20:15:00+00,,,,,,,-1.5,1.5,140,-170,2.4,1.5882,8.5,-120,100,1.8333,2,,,,2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,fanduel,2026-08-23 20:15:00+00,,,,,,,-1.5,1.5,138,-166,2.38,1.6024,8.5,-122,-100,1.8197,2,,,,2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,hardrock,2026-08-23 20:15:00+00,,,,,,,5.5,-1.5,325,170,4.25,2.7,8.5,-105,-105,1.9524,1.9524,,,,2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,maverick_games,2026-08-23 20:15:00+00,107,-143,,2.07,1.6993,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,maverick_games_open,2026-08-23 20:15:00+00,106,-141,,2.06,1.7092,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,mybookie,2026-08-23 20:15:00+00,156,-185,,2.56,1.5405,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,mybookie_open,2026-08-23 20:15:00+00,153,-181,,2.53,1.5525,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,paf,2026-08-23 20:15:00+00,-129,106,,1.7752,2.06,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,paf_open,2026-08-23 20:15:00+00,-137,112,,1.7299,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,parx,2026-08-23 20:15:00+00,,,,,,,-1.5,1.5,145,-177,2.45,1.565,9,102,-122,2.02,1.8197,,,,2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,pinnacle,2026-08-23 20:15:00+00,-128,116,,1.7812,2.16,,4,1.5,159,124,2.59,2.24,8.5,-113,-102,1.885,1.9804,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,pinnacle_open,2026-08-23 20:15:00+00,-129,117,,1.7752,2.17,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,pmu,2026-08-23 20:15:00+00,-143,-105,,1.6993,1.9524,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,pmu_open,2026-08-23 20:15:00+00,-155,102,,1.6452,2.02,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,rushbet,2026-08-23 20:15:00+00,-129,106,,1.7752,2.06,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,rushbet_open,2026-08-23 20:15:00+00,-137,112,,1.7299,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet,2026-08-23 20:15:00+00,-130,105,,1.7692,2.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_au,2026-08-23 20:15:00+00,-129,106,,1.7752,2.06,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_au_open,2026-08-23 20:15:00+00,-137,112,,1.7299,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_be,2026-08-23 20:15:00+00,-129,106,,1.7752,2.06,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_be_open,2026-08-23 20:15:00+00,-137,112,,1.7299,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_de,2026-08-23 20:15:00+00,-129,106,,1.7752,2.06,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_de_open,2026-08-23 20:15:00+00,-137,112,,1.7299,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_dk,2026-08-23 20:15:00+00,-129,106,,1.7752,2.06,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_dk_open,2026-08-23 20:15:00+00,-137,112,,1.7299,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_ee,2026-08-23 20:15:00+00,-130,105,,1.7692,2.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_ee_open,2026-08-23 20:15:00+00,-137,112,,1.7299,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_fi,2026-08-23 20:15:00+00,-127,107,,1.7874,2.07,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_fi_open,2026-08-23 20:15:00+00,-136,114,,1.7353,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_fr,2026-08-23 20:15:00+00,-129,106,,1.7752,2.06,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_fr_open,2026-08-23 20:15:00+00,-137,112,,1.7299,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_ie,2026-08-23 20:15:00+00,-130,105,,1.7692,2.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_ie_open,2026-08-23 20:15:00+00,-137,112,,1.7299,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_it,2026-08-23 20:15:00+00,-130,105,,1.7692,2.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_it_open,2026-08-23 20:15:00+00,-137,112,,1.7299,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_nl,2026-08-23 20:15:00+00,-127,107,,1.7874,2.07,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_nl_open,2026-08-23 20:15:00+00,-136,114,,1.7353,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_no,2026-08-23 20:15:00+00,-129,106,,1.7752,2.06,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_no_open,2026-08-23 20:15:00+00,-137,112,,1.7299,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_open,2026-08-23 20:15:00+00,-137,112,,1.7299,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_ro,2026-08-23 20:15:00+00,-127,107,,1.7874,2.07,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_ro_open,2026-08-23 20:15:00+00,-136,114,,1.7353,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_se,2026-08-23 20:15:00+00,-127,107,,1.7874,2.07,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,unibet_se_open,2026-08-23 20:15:00+00,-136,114,,1.7353,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,fanduel,2026-08-23 20:16:00+00,-126,108,,1.7937,2.08,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Arizona Diamondbacks,Cincinnati Reds,fanduel_open,2026-08-23 20:16:00+00,-126,108,,1.7937,2.08,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,atg,2026-08-23 23:10:00+00,-139,115,,1.7194,2.15,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,atg_open,2026-08-23 23:10:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,bet365,2026-08-23 23:10:00+00,,,,,,,-1.5,1.5,185,-225,2.85,1.4444,8,-105,-115,1.9524,1.8696,,,,2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,betmgm,2026-08-23 23:10:00+00,,,,,,,1.5,-1.5,-140,110,1.7143,2.1,7.5,-105,-115,1.9524,1.8696,,,,2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,betrivers,2026-08-23 23:10:00+00,,,,,,,1.5,-1.5,-215,170,1.4651,2.7,8,100,-120,2,1.8333,,,,2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,betrivers_ca,2026-08-23 23:10:00+00,-137,118,,1.7299,2.18,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,betrivers_ca_open,2026-08-23 23:10:00+00,-134,112,,1.7463,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,caesars,2026-08-23 23:10:00+00,,,,,,,1.5,-1.5,-125,-105,1.8,1.9524,6.5,-143,110,1.6993,2.1,,,,2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,draftkings,2026-08-23 23:10:00+00,,,,,,,1.5,-1.5,-197,161,1.5076,2.61,8,-102,-118,1.9804,1.8475,,,,2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,fanatics,2026-08-23 23:10:00+00,,,,,,,-1.5,1.5,145,-195,2.45,1.5128,7.5,100,-130,2,1.7692,,,,2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,fanduel,2026-08-23 23:10:00+00,,,,,,,1.5,-1.5,-205,168,1.4878,2.68,7.5,-118,-104,1.8475,1.9615,,,,2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,hardrock,2026-08-23 23:10:00+00,,,,,,,1.5,-1.5,-135,105,1.7407,2.05,6.5,-145,110,1.6897,2.1,,,,2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,maverick_games,2026-08-23 23:10:00+00,225,210,,3.25,3.1,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,maverick_games_open,2026-08-23 23:10:00+00,-135,-101,,1.7407,1.9901,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,mybookie,2026-08-23 23:10:00+00,360,-625,,4.6,1.16,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,mybookie_open,2026-08-23 23:10:00+00,170,-250,,2.7,1.4,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,paf,2026-08-23 23:10:00+00,-139,115,,1.7194,2.15,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,paf_open,2026-08-23 23:10:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,parx,2026-08-23 23:10:00+00,,,,,,,1.5,-1.5,-215,170,1.4651,2.7,8,100,-120,2,1.8333,,,,2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,pinnacle,2026-08-23 23:10:00+00,376,-571,,4.76,1.1751,,1.5,-1.5,-286,223,1.3497,3.23,6.5,133,-171,2.33,1.5848,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,pinnacle_open,2026-08-23 23:10:00+00,591,-897,,6.91,1.1115,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,pmu,2026-08-23 23:10:00+00,-159,105,,1.6289,2.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,pmu_open,2026-08-23 23:10:00+00,-152,102,,1.6579,2.02,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,rushbet,2026-08-23 23:10:00+00,-139,115,,1.7194,2.15,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,rushbet_open,2026-08-23 23:10:00+00,-137,110,,1.7299,2.1,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet,2026-08-23 23:10:00+00,-141,114,,1.7092,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_au,2026-08-23 23:10:00+00,-139,115,,1.7194,2.15,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_au_open,2026-08-23 23:10:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_be,2026-08-23 23:10:00+00,-139,115,,1.7194,2.15,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_be_open,2026-08-23 23:10:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_de,2026-08-23 23:10:00+00,-139,115,,1.7194,2.15,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_de_open,2026-08-23 23:10:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_dk,2026-08-23 23:10:00+00,-139,115,,1.7194,2.15,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_dk_open,2026-08-23 23:10:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_ee,2026-08-23 23:10:00+00,-141,114,,1.7092,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_ee_open,2026-08-23 23:10:00+00,-137,110,,1.7299,2.1,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_fi,2026-08-23 23:10:00+00,-139,117,,1.7194,2.17,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_fi_open,2026-08-23 23:10:00+00,-134,112,,1.7463,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_fr,2026-08-23 23:10:00+00,-139,115,,1.7194,2.15,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_fr_open,2026-08-23 23:10:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_ie,2026-08-23 23:10:00+00,-141,114,,1.7092,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_ie_open,2026-08-23 23:10:00+00,-137,110,,1.7299,2.1,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_it,2026-08-23 23:10:00+00,-141,114,,1.7092,2.14,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_it_open,2026-08-23 23:10:00+00,-137,110,,1.7299,2.1,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_nl,2026-08-23 23:10:00+00,-139,117,,1.7194,2.17,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_nl_open,2026-08-23 23:10:00+00,-134,112,,1.7463,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_no,2026-08-23 23:10:00+00,-139,115,,1.7194,2.15,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_no_open,2026-08-23 23:10:00+00,-136,112,,1.7353,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_open,2026-08-23 23:10:00+00,-137,110,,1.7299,2.1,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_ro,2026-08-23 23:10:00+00,-139,117,,1.7194,2.17,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_ro_open,2026-08-23 23:10:00+00,-134,112,,1.7463,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_se,2026-08-23 23:10:00+00,-139,117,,1.7194,2.17,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_se_open,2026-08-23 23:10:00+00,-134,112,,1.7463,2.12,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,atg,2026-08-23 23:11:00+00,380,-560,,4.8,1.1786,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,atg_open,2026-08-23 23:11:00+00,850,-2000,,9.5,1.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,betmgm,2026-08-23 23:11:00+00,,,,,,,,,,,,,6.5,175,-225,2.75,1.4444,,,,2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,betrivers_ca,2026-08-23 23:11:00+00,350,-590,,4.5,1.1695,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,betrivers_ca_open,2026-08-23 23:11:00+00,700,-2500,,8,1.04,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,fanduel,2026-08-23 23:11:00+00,440,-550,,5.4,1.1818,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,fanduel_open,2026-08-23 23:11:00+00,850,-1050,,9.5,1.0952,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,paf,2026-08-23 23:11:00+00,380,-560,,4.8,1.1786,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,paf_open,2026-08-23 23:11:00+00,850,-2000,,9.5,1.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,pmu,2026-08-23 23:11:00+00,330,-770,,4.3,1.1299,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,pmu_open,2026-08-23 23:11:00+00,650,-5000,,7.5,1.02,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,rushbet,2026-08-23 23:11:00+00,330,-715,,4.3,1.1399,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,rushbet_open,2026-08-23 23:11:00+00,650,-5000,,7.5,1.02,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet,2026-08-23 23:11:00+00,380,-560,,4.8,1.1786,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_au,2026-08-23 23:11:00+00,380,-560,,4.8,1.1786,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_au_open,2026-08-23 23:11:00+00,850,-2000,,9.5,1.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_be,2026-08-23 23:11:00+00,380,-560,,4.8,1.1786,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_be_open,2026-08-23 23:11:00+00,850,-2000,,9.5,1.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_de,2026-08-23 23:11:00+00,380,-560,,4.8,1.1786,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_de_open,2026-08-23 23:11:00+00,850,-2000,,9.5,1.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_dk,2026-08-23 23:11:00+00,380,-560,,4.8,1.1786,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_dk_open,2026-08-23 23:11:00+00,850,-2000,,9.5,1.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_ee,2026-08-23 23:11:00+00,380,-560,,4.8,1.1786,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_ee_open,2026-08-23 23:11:00+00,850,-2000,,9.5,1.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_fi,2026-08-23 23:11:00+00,380,-560,,4.8,1.1786,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_fi_open,2026-08-23 23:11:00+00,850,-2000,,9.5,1.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_fr,2026-08-23 23:11:00+00,380,-560,,4.8,1.1786,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_fr_open,2026-08-23 23:11:00+00,850,-2000,,9.5,1.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_ie,2026-08-23 23:11:00+00,380,-560,,4.8,1.1786,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_ie_open,2026-08-23 23:11:00+00,850,-2000,,9.5,1.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_it,2026-08-23 23:11:00+00,380,-560,,4.8,1.1786,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_it_open,2026-08-23 23:11:00+00,850,-2000,,9.5,1.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_nl,2026-08-23 23:11:00+00,380,-560,,4.8,1.1786,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_nl_open,2026-08-23 23:11:00+00,850,-2000,,9.5,1.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_no,2026-08-23 23:11:00+00,380,-560,,4.8,1.1786,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_no_open,2026-08-23 23:11:00+00,850,-2000,,9.5,1.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_open,2026-08-23 23:11:00+00,850,-2000,,9.5,1.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_ro,2026-08-23 23:11:00+00,380,-560,,4.8,1.1786,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_ro_open,2026-08-23 23:11:00+00,850,-2000,,9.5,1.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_se,2026-08-23 23:11:00+00,380,-560,,4.8,1.1786,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,Milwaukee Brewers,Atlanta Braves,unibet_se_open,2026-08-23 23:11:00+00,850,-2000,,9.5,1.05,,,,,,,,,,,,,,,"",2026
+2026-08-23,baseball_mlb,ARI Diamondbacks,CIN Reds,draftkings,,,,,,,,-1.5,1.5,154,-188,2.54,1.5319,8.5,-115,-105,1.8696,1.9524,,,,2026
+2026-08-23,baseball_mlb,ARI Diamondbacks,CIN Reds,fliff,,,,,,,,,,,,,,8.5,-115,-110,1.8696,1.9091,,,,2026
+2026-08-23,baseball_mlb,BAL Orioles,TB Rays,draftkings,,,,,,,,1.5,-1.5,-174,143,1.5747,2.43,8.5,-120,100,1.8333,2,,,,2026
+2026-08-23,baseball_mlb,BAL Orioles,TB Rays,fliff,,,,,,,,,,,,,,8.5,-120,-105,1.8333,1.9524,,,,2026
+2026-08-23,baseball_mlb,BOS Red Sox,SF Giants,draftkings,,,,,,,,-1.5,1.5,-110,-110,1.9091,1.9091,8,-117,-103,1.8547,1.9709,,,,2026
+2026-08-23,baseball_mlb,BOS Red Sox,SF Giants,fliff,,,,,,,,,,,,,,8.5,100,-125,2,1.8,,,,2026
+2026-08-23,baseball_mlb,CHI White Sox,NY Mets,draftkings,,,,,,,,1.5,-1.5,-182,150,1.5495,2.5,8,-117,-103,1.8547,1.9709,,,,2026
+2026-08-23,baseball_mlb,CHI White Sox,NY Mets,fliff,,,,,,,,,,,,,,8.5,100,-125,2,1.8,,,,2026
+2026-08-23,baseball_mlb,COL Rockies,CLE Guardians,draftkings,,,,,,,,1.5,-1.5,-110,-110,1.9091,1.9091,11,-120,100,1.8333,2,,,,2026
+2026-08-23,baseball_mlb,COL Rockies,CLE Guardians,fliff,,,,,,,,,,,,,,11.5,100,-130,2,1.7692,,,,2026
+2026-08-23,baseball_mlb,HOU Astros,Athletics,draftkings,,,,,,,,-1.5,1.5,110,-132,2.1,1.7576,9,-102,-118,1.9804,1.8475,,,,2026
+2026-08-23,baseball_mlb,HOU Astros,Athletics,fliff,,,,,,,,,,,,,,8.5,-130,100,1.7692,2,,,,2026
+2026-08-23,baseball_mlb,KC Royals,DET Tigers,draftkings,,,,,,,,1.5,-1.5,-186,153,1.5376,2.53,8.5,-115,-105,1.8696,1.9524,,,,2026
+2026-08-23,baseball_mlb,KC Royals,DET Tigers,fliff,,,,,,,,,,,,,,8.5,-115,-105,1.8696,1.9524,,,,2026
+2026-08-23,baseball_mlb,LA Dodgers,PIT Pirates,draftkings,,,,,,,,-1.5,1.5,-130,108,1.7692,2.08,8.5,-103,-117,1.9709,1.8547,,,,2026
+2026-08-23,baseball_mlb,LA Dodgers,PIT Pirates,fliff,,,,,,,,,,,,,,8.5,-105,-120,1.9524,1.8333,,,,2026
+2026-08-23,baseball_mlb,MIA Marlins,WAS Nationals,draftkings,,,,,,,,-1.5,1.5,131,-158,2.31,1.6329,8.5,-105,-115,1.9524,1.8696,,,,2026
+2026-08-23,baseball_mlb,MIA Marlins,WSH Nationals,fliff,,,,,,,,,,,,,,8.5,-105,-120,1.9524,1.8333,,,,2026
+2026-08-23,baseball_mlb,MIL Brewers,ATL Braves,draftkings,,,,,,,,-1.5,1.5,159,-194,2.59,1.5155,7.5,-105,-115,1.9524,1.8696,,,,2026
+2026-08-23,baseball_mlb,MIL Brewers,ATL Braves,fliff,,,,,,,,,,,,,,7.5,-105,-120,1.9524,1.8333,,,,2026
+2026-08-23,baseball_mlb,NY Yankees,TOR Blue Jays,draftkings,,,,,,,,-1.5,1.5,153,-186,2.53,1.5376,7.5,-117,-103,1.8547,1.9709,,,,2026
+2026-08-23,baseball_mlb,NY Yankees,TOR Blue Jays,fliff,,,,,,,,,,,,,,7.5,-120,-105,1.8333,1.9524,,,,2026
+2026-08-23,baseball_mlb,PHI Phillies,STL Cardinals,draftkings,,,,,,,,-1.5,1.5,100,-120,2,1.8333,7.5,-111,-109,1.9009,1.9174,,,,2026
+2026-08-23,baseball_mlb,PHI Phillies,STL Cardinals,fliff,,,,,,,,,,,,,,7.5,-110,-115,1.9091,1.8696,,,,2026
+2026-08-23,baseball_mlb,SD Padres,MIN Twins,draftkings,,,,,,,,-1.5,1.5,142,-172,2.42,1.5814,8.5,-114,-105,1.8772,1.9524,,,,2026
+2026-08-23,baseball_mlb,SD Padres,MIN Twins,fliff,,,,,,,,,,,,,,8.5,-115,-110,1.8696,1.9091,,,,2026
+2026-08-23,baseball_mlb,SEA Mariners,CHI Cubs,draftkings,,,,,,,,1.5,-1.5,-185,152,1.5405,2.52,7.5,-107,-113,1.9346,1.885,,,,2026
+2026-08-23,baseball_mlb,SEA Mariners,CHI Cubs,fliff,,,,,,,,,,,,,,7.5,-110,-115,1.9091,1.8696,,,,2026
+2026-08-23,baseball_mlb,TEX Rangers,LA Angels,draftkings,,,,,,,,-1.5,1.5,135,-163,2.35,1.6135,8,-114,-106,1.8772,1.9434,,,,2026
+2026-08-23,baseball_mlb,TEX Rangers,LA Angels,fliff,,,,,,,,,,,,,,7.5,-130,100,1.7692,2,,,,2026

@@ -1,0 +1,14 @@
+game_date,sport_key,home_team,away_team,source,commence_time,home_ml,away_ml,draw_ml,home_price_decimal,away_price_decimal,draw_price_decimal,home_spread,away_spread,home_spread_ml,away_spread_ml,home_spread_price_decimal,away_spread_price_decimal,total_line,over_ml,under_ml,over_price_decimal,under_price_decimal,home_score,away_score,result,season
+2026-02-08,americanfootball_nfl,New England Patriots,Seattle Seahawks,bet365,2026-02-08 23:30:00+00,,,,,,,4.5,-4.5,-110,-110,1.9091,1.9091,,,,,,,,,2026
+2026-02-08,americanfootball_nfl,New England Patriots,Seattle Seahawks,betmgm_an,,190,-230,,2.9,1.4348,,,,,,,,,,,,,,,"",2026
+2026-02-08,americanfootball_nfl,New England Patriots,Seattle Seahawks,betrivers,2026-02-08 23:30:00+00,,,,,,,5,-5,-113,-110,1.885,1.9091,,,,,,,,,2026
+2026-02-08,americanfootball_nfl,New England Patriots,Seattle Seahawks,caesars_an,,190,-230,,2.9,1.4348,,,,,,,,,,,,,,,"",2026
+2026-02-08,americanfootball_nfl,New England Patriots,Seattle Seahawks,closing_line,,370,-556,,4.7,1.18,,,,,,,,,,,,,13,29,A,""
+2026-02-08,americanfootball_nfl,New England Patriots,Seattle Seahawks,draftkings,2026-02-08 23:30:00+00,,,,,,,4.5,-4.5,-108,-112,1.9259,1.8929,,,,,,,,,2026
+2026-02-08,americanfootball_nfl,New England Patriots,Seattle Seahawks,draftkings_an,,190,-230,,2.9,1.4348,,,,,,,,,,,,,,,"",2026
+2026-02-08,americanfootball_nfl,New England Patriots,Seattle Seahawks,fanatics,2026-02-08 23:30:00+00,,,,,,,4.5,-4.5,-110,-110,1.9091,1.9091,,,,,,,,,2026
+2026-02-08,americanfootball_nfl,New England Patriots,Seattle Seahawks,fanatics_an,,188,-240,,2.88,1.4167,,,,,,,,,,,,,,,"",2026
+2026-02-08,americanfootball_nfl,New England Patriots,Seattle Seahawks,fanduel,2026-02-08 23:30:00+00,,,,,,,4.5,-4.5,-105,-115,1.9524,1.8696,,,,,,,,,2026
+2026-02-08,americanfootball_nfl,New England Patriots,Seattle Seahawks,fanduel_an,,185,-225,,2.85,1.4444,,,,,,,,,,,,,,,"",2026
+2026-02-08,americanfootball_nfl,New England Patriots,Seattle Seahawks,opening_line,,185,-233,,2.85,1.43,,,,,,,,,,,,,13,29,A,""
+2026-02-08,americanfootball_nfl,New England Patriots,Seattle Seahawks,parx,2026-02-08 23:30:00+00,,,,,,,5,-5,-113,-108,1.885,1.9259,,,,,,,,,2026

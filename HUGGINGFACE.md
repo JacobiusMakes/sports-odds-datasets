@@ -53,7 +53,7 @@ Real per-sportsbook closing odds exported from the [ParlayAPI](https://parlay-ap
 ## Files
 
 - `data/superbowl_lx_closing_lines.csv` (13 rows): Super Bowl LX (2026-02-08, Seahawks at Patriots). Closing moneyline, spread, and total from 13 sources, including consensus opening and closing lines.
-- `data/mlb_2026-08-23_closing_lines.csv` (1,151 rows): one complete MLB day, 34 games, 56 sources, including opening-line snapshots for line-movement analysis.
+- `data/mlb_2026-08-23_closing_lines.csv` (1,151 rows): one complete MLB day, 15 games (all 30 teams), 56 sources, including opening-line snapshots for line-movement analysis.
 - `data/prop_closing_lines_sample_50k.csv` (50,000 rows): random sample of player prop closing lines across 43 sources, 23,000+ players, 1,400+ market keys (MLB, NBA, WNBA, NHL, soccer, tennis, table tennis, esports, and more), sampled from a 30M+ row archive collected since 2022.
 
 Columns cover American and decimal odds, spreads, totals, implied probabilities, final scores, and capture timestamps. Full schema tables: https://github.com/JacobiusMakes/sports-odds-datasets
@@ -74,7 +74,7 @@ Closing line value (CLV) studies, vig/hold comparison across books, line shoppin
 
 ## Collection method
 
-Exported from the ParlayAPI production archive, which aggregates 45+ sportsbooks and sources across 90+ sports (1.7M+ game closing lines back to 2005, 30M+ prop closes since 2022). Static slices; for live or complete data there is a free API tier (1,000 credits/month, no card): https://parlay-api.com
+Exported from the ParlayAPI production archive, which aggregates 30+ sportsbooks plus additional data sources across 90+ sport keys (1.7M+ game closing lines back to 2005, 30M+ prop closes since 2022). Static slices; for live or complete data there is a free API tier (1,000 credits/month, no card): https://parlay-api.com
 
 ## License and attribution
 

@@ -54,7 +54,7 @@ Sportsbook Closing Lines: NFL, MLB + 50k Player Props
 **Subtitle**
 
 ```
-Per-book closing odds: Super Bowl LX, a full 34-game MLB slate, and 50,000 player prop closes across 43 sportsbooks.
+Per-book closing odds: Super Bowl LX, a full 15-game MLB slate, and 50,000 player prop closes across 43 sources.
 ```
 
 **Description**
@@ -66,7 +66,7 @@ Three files:
 
 1. superbowl_lx_closing_lines.csv: Super Bowl LX (2026-02-08, Seahawks at Patriots). Closing moneyline, spread, and total from 13 sources, including consensus opening and closing lines.
 
-2. mlb_2026-08-23_closing_lines.csv: one complete MLB day (34 games) with 1,151 per-book rows across 56 sources, including opening-line snapshots for line-movement analysis.
+2. mlb_2026-08-23_closing_lines.csv: one complete MLB day (15 games, all 30 teams) with 1,151 per-book rows across 56 sources, including opening-line snapshots for line-movement analysis.
 
 3. prop_closing_lines_sample_50k.csv: a random 50,000-row sample of player prop closing lines across 43 sources, 23,000+ players, and 1,400+ market keys (MLB, NBA, WNBA, NHL, soccer, tennis, table tennis, esports, and more), sampled from an archive of 30M+ prop closes collected since 2022.
 
@@ -74,7 +74,7 @@ Columns cover American and decimal odds, spreads, totals, implied probabilities,
 
 Good for: closing line value (CLV) studies, vig/hold comparison across books, line shopping analysis, calibration of prediction models, teaching material.
 
-Collection method: exported from the ParlayAPI production archive, which aggregates 45+ sportsbooks and sources across 90+ sports (1.7M+ game closing lines back to 2005, 30M+ prop closes since 2022). For live or complete data there is a free API tier (1,000 credits/month, no card): https://parlay-api.com
+Collection method: exported from the ParlayAPI production archive, which aggregates 30+ sportsbooks plus additional data sources across 90+ sport keys (1.7M+ game closing lines back to 2005, 30M+ prop closes since 2022). For live or complete data there is a free API tier (1,000 credits/month, no card): https://parlay-api.com
 
 License: CC BY 4.0. Attribution: ParlayAPI (parlay-api.com).
 ```

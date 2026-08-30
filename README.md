@@ -9,7 +9,7 @@ These files are meant for data scientists, bettors building models, students, an
 | File | Rows | Size | What it is |
 |---|---|---|---|
 | `data/superbowl_lx_closing_lines.csv` | 13 | 2 KB | Super Bowl LX (2026-02-08, Seattle Seahawks at New England Patriots). Per-book closing lines for the main markets: moneyline, spread, total. Includes consensus `closing_line` and `opening_line` rows. |
-| `data/mlb_2026-08-23_closing_lines.csv` | 1,151 | 158 KB | One full MLB day (2026-08-23, 34 games). Per-book closing lines across 56 sources, including opening-line snapshots (`_open` sources). |
+| `data/mlb_2026-08-23_closing_lines.csv` | 1,151 | 158 KB | One full MLB day (2026-08-23, 15 games). Per-book closing lines across 56 sources, including opening-line snapshots (`_open` sources). |
 | `data/prop_closing_lines_sample_50k.csv` | 50,000 | 9.4 MB | Random 50,000-row sample of player prop closing lines across 43 sources, 23,000+ players, 1,400+ market keys, spanning 2026-02-08 to 2026-08-25. Sampled from an archive of 30M+ prop closing lines collected since 2022. |
 
 Total: about 9.6 MB. Everything loads with plain `pandas.read_csv`.
@@ -84,7 +84,7 @@ Notes on the prop sample:
 
 ## Collection method
 
-Exported from the ParlayAPI production archive. ParlayAPI aggregates real-time odds from 45+ sportsbooks and sources across 90+ sports, and archives closing lines continuously: 1.7M+ historical game closing lines going back to 2005 and 30M+ prop closing lines since 2022. These CSVs are small, static slices of that archive.
+Exported from the ParlayAPI production archive. ParlayAPI aggregates real-time odds from 30+ sportsbooks plus additional data sources across 90+ sport keys, and archives closing lines continuously: 1.7M+ historical game closing lines going back to 2005 and 30M+ prop closing lines since 2022. These CSVs are small, static slices of that archive.
 
 ## Getting fresh or complete data
 

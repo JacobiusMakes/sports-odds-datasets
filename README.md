@@ -119,3 +119,7 @@ Suggested citation:
 ParlayAPI Sports Odds Datasets, exported from the ParlayAPI production archive.
 https://github.com/JacobiusMakes/sports-odds-datasets (CC BY 4.0, parlay-api.com)
 ```
+
+---
+
+Part of the [ParlayAPI](https://parlay-api.com) ecosystem: a real-time sports odds API with a free tier of 1,000 credits per month, no card required. Explore all the tools at [github.com/JacobiusMakes](https://github.com/JacobiusMakes).
